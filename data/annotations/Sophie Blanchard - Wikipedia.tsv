@@ -1,0 +1,47 @@
+expression                                          	plurality 	Yago4          	manifestation              	modifiers            	vagueness
+Sophie Blanchard                                    	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+Madame Blanchard                                    	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+many combination                                      	class     	Intangible     	numbered                	MODIFIERS           	portions
+her maiden and married names                          	class     	Intangible     	qualified_anaphora      	adjective           	portions
+Madeleine-Sophie Blanchard                          	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+Marie Madeleine-Sophie Blanchard                    	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+Marie Sophie Armant                                 	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+Madeleine-Sophie Armant Blanchard                   	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+a French aeronaut                                   	instance  	Person         	undetermined               	adjective            	NOT_VAGUE
+the wife                                            	instance  	Person         	determined                	MODIFIERS            	NOT_VAGUE
+ballooning pioneer Jean-Pierre Blanchard            	instance  	Person         	named                     	noun                	NOT_VAGUE
+Blanchard                                           	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+the first woman                                     	instance  	Person         	determined                 	adjective            	NOT_VAGUE
+a professional balloonist                           	instance  	Person         	undetermined               	adjective            	NOT_VAGUE
+her husband's death                                 	instance  	Event          	qualified_anaphora         	MODIFIERS            	NOT_VAGUE
+more than 60 ascents                                	class     	Action         	numbered                   	MODIFIERS            	portions
+Europe                                              	instance  	Place        	named                      	MODIFIERS            	NOT_VAGUE
+her ballooning exploits                             	class     	Event          	qualified_anaphora         	noun                 	portions
+Napoleon Bonaparte                                  	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+the role                                               	instance   	Person         	determined                	MODIFIERS            	NOT_VAGUE
+Aeronaut of the Official Festivals                     	instance   	Person         	named                     	preposition adjective  	NOT_VAGUE
+André-Jacques Garnerin                              	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+the restoration                                      	instance  	Event          	determined                 	MODIFIERS             	NOT_VAGUE
+the monarchy                                          	instance  	CreativeWork   	determined                 	MODIFIERS             	NOT_VAGUE
+Louis XVIII                                         	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+Official Aeronaut of the Restoration                	instance  	Person         	named                      	adjective preposition	NOT_VAGUE
+Ballooning                                          	instance  	Action         	undetermined               	MODIFIERS            	NOT_VAGUE
+a risky business                                      	instance  	intangible     	undetermined               	adjective           	degree
+the pioneers                                          	class     	Person       	determined               	MODIFIERS           	NOT_VAGUE
+consciousness                                       	instance  	Intangible     	numbered                   	adjective           	NOT_VAGUE
+a few occasions                                     	class     	intangible     	undetermined numbered      	adjective            	portions
+freezing temperatures                               	class     	Intangible     	undetermined               	noun                 	degree portions
+her balloon                                         	instance  	Product        	qualified_anaphora         	MODIFIERS            	NOT_VAGUE
+a marsh                                             	instance  	Place        	undetermined               	MODIFIERS            	NOT_VAGUE
+the first woman                                     	instance  	Person         	determined                 	adjective            	NOT_VAGUE
+an aviation accident                                	instance  	Event          	undetermined               	noun                 	NOT_VAGUE
+an exhibition                                          	instance  	Event          	undetermined               	MODIFIERS             	NOT_VAGUE
+the Tivoli                                           	instance  	Place        	determined named           	MODIFIERS              	NOT_VAGUE
+Paris                                               	instance  	Place        	named                      	MODIFIERS            	NOT_VAGUE
+fireworks                                           	class     	CreativeWork   	undetermined               	MODIFIERS            	portions
+the gas                                              	instance  	BioChemEntity  	determined mass_noun       	MODIFIERS             	NOT_VAGUE
+her balloon                                            	instance  	Product        	qualified_anaphora       	MODIFIERS             	NOT_VAGUE
+Her craft                                           	instance  	Product        	qualified_anaphora         	MODIFIERS            	NOT_VAGUE
+the roof                                            	instance  	Place        	determined                 	MODIFIERS             	NOT_VAGUE
+a house                                              	instance  	Place        	undetermined              	MODIFIERS             	NOT_VAGUE
+her death                                           	instance  	Event          	qualified_anaphora         	MODIFIERS            	NOT_VAGUE

@@ -1,0 +1,63 @@
+expression                                                      	plurality 	Yago4          	manifestation                  	modifiers            	vagueness
+Mulholland Drive                                                	instance  	CreativeWork   	named                          	MODIFIERS            	NOT_VAGUE
+a 2001 surrealist neo-noir mystery film                         	instance  	CreativeWork   	undetermined                   	adjective noun       	subjective
+David Lynch                                                     	instance  	Person         	named                          	MODIFIERS            	NOT_VAGUE
+Naomi Watts                                                     	instance  	Person         	named                          	MODIFIERS            	NOT_VAGUE
+Laura Harring                                                   	instance  	Person         	named                          	MODIFIERS            	NOT_VAGUE
+Justin Theroux                                                  	instance  	Person         	named                          	MODIFIERS            	NOT_VAGUE
+Ann Miller                                                      	instance  	Person         	named                          	MODIFIERS            	NOT_VAGUE
+Mark Pellegrino                                                 	instance  	Person         	named                          	MODIFIERS            	NOT_VAGUE
+Robert Forster                                                  	instance  	Person         	named                          	MODIFIERS            	NOT_VAGUE
+the story                                                       	instance  	CreativeWork   	determined                     	MODIFIERS             	NOT_VAGUE
+an aspiring actress                                               	instance  	Person         	undetermined                   	adjective             	NOT_VAGUE
+Betty Elms(Watts)                                               	instance  	Person         	named                          	MODIFIERS            	NOT_VAGUE
+Los Angeles                                                     	instance  	Place        	named                          	MODIFIERS            	NOT_VAGUE
+an amnesiac woman (Harring)                                     	instance  	Person         	undetermined contains_named    	adjective            	NOT_VAGUE
+a car accident                                                  	instance  	Event          	undetermined                   	noun                 	NOT_VAGUE
+The story                                                       	instance  	CreativeWork   	determined                     	MODIFIERS            	NOT_VAGUE
+several other vignettes and characters                          	class     	Person         	numbered                       	MODIFIERS            	portions
+a Hollywood film director (Theroux)                             	instance  	Person         	undetermined contains_named    	noun                 	NOT_VAGUE
+The American-French co-production                               	instance  	CreativeWork   	determined                     	adjective            	NOT_VAGUE
+a television pilot                                              	instance  	CreativeWork   	undetermined                   	noun                 	NOT_VAGUE
+a large portion                                                 	instance  	Intangible   	undetermined                   	adjective           	degree
+the film                                                         	instance  	CreativeWork   	determined                   	MODIFIERS           	NOT_VAGUE
+Lynch's plan                                                    	instance  	CreativeWork   	determined contains_named      	MODIFIERS            	NOT_VAGUE
+a potential series                                              	instance  	CreativeWork   	undetermined                   	adjective            	NOT_VAGUE
+Lynch's cut                                                     	instance  	CreativeWork   	determined contains_named      	MODIFIERS            	NOT_VAGUE
+television executives                                           	class     	Person         	undetermined                   	noun                 	portions
+Lynch                                                           	instance  	Person         	named                          	MODIFIERS            	NOT_VAGUE
+an ending                                                       	instance  	CreativeWork   	undetermined                   	MODIFIERS            	NOT_VAGUE
+the project                                                     	instance  	CreativeWork   	determined anaphora            	MODIFIERS            	NOT_VAGUE
+a feature film                                                  	instance  	CreativeWork   	undetermined                   	noun                 	NOT_VAGUE
+The half-pilot, half-feature result                             	instance  	CreativeWork   	determined                     	adjective            	NOT_VAGUE
+Lynch's characteristic surrealist style                         	instance  	CreativeWork   	determined contains_named      	adjective            	subjective
+the general meaning                                             	instance  	Intangible     	determined                     	adjective           	NOT_VAGUE
+the film's events                                                	instance  	Intangible     	determined                     	MODIFIERS           	NOT_VAGUE
+an explanation                                                  	instance  	CreativeWork   	undetermined                	MODIFIERS             	NOT_VAGUE
+his intentions                                                     	instance  	CreativeWork   	qualified_anaphora          	MODIFIERS             	NOT_VAGUE
+the tagline                                                        	instance  	CreativeWork   	determined                     	MODIFIERS            	NOT_VAGUE
+A love story                                                       	instance  	CreativeWork   	undetermined                   	adjective            	NOT_VAGUE
+the city                                                           	instance  	Place        	determined                     	MODIFIERS            	NOT_VAGUE
+dreams                                                          	class    	CreativeWork   	undetermined                   	MODIFIERS            	NOT_VAGUE
+a psychological thriller                                        	instance  	CreativeWork   	undetermined                   	adjective            	NOT_VAGUE
+Mulholland Drive                                                	instance  	CreativeWork   	named                          	MODIFIERS            	NOT_VAGUE
+the Prix de la mise en scène (Best Director Cut)                	instance  	Event          	determined named               	MODIFIERS            	NOT_VAGUE
+the 2001 Cannes Film Festival                                   	instance  	Event          	determined named               	MODIFIERS            	NOT_VAGUE
+the prize                                                       	instance  	Event          	determined anaphora            	MODIFIERS            	NOT_VAGUE
+Joel Coen                                                       	instance  	Person         	named                          	MODIFIERS            	NOT_VAGUE
+The Man Who Wasn't There                                        	instance  	CreativeWork   	determined named               	MODIFIERS            	NOT_VAGUE
+Lynch                                                           	instance  	Person         	named                          	MODIFIERS            	NOT_VAGUE
+an Academy Award nomination for Best Director                   	instance  	Event          	undetermined contains_named    	preposition          	NOT_VAGUE
+The film                                                        	instance  	CreativeWork   	determined anaphora            	MODIFIERS            	NOT_VAGUE
+Harring's career                                                	instance  	Intangible     	determined contains_named      	MODIFIERS            	NOT_VAGUE
+Watts' Hollywood profile considerably                              	instance  	Intangible     	mass_noun contains_named       	MODIFIERS            	degree
+the last feature film                                           	instance  	CreativeWork   	determined anaphora            	adjective noun       	NOT_VAGUE
+veteran Hollywood actress Ann Miller                            	instance  	Person         	named                          	MODIFIERS            	NOT_VAGUE
+Lynch's finest works                                            	class     	CreativeWork   	determined contains_named      	adjective            	subjective
+one of the greatest films                                         	class     	CreativeWork   	determined                     	adjective           	subjective portions
+the 21st century                                                 	instance   	Event          	determined                     	MODIFIERS           	NOT_VAGUE
+the 2012 Sight & Sound critics' psychological                   	instance  	CreativeWork   	determined named               	MODIFIERS           	NOT_VAGUE
+the best films ever made                                        	instance  	CreativeWork   	determined                     	MODIFIERS           	NOT_VAGUE
+a 2016 poll                                                      	instance  	CreativeWork   	undetermined                   	MODIFIERS              	NOT_VAGUE
+BBC Culture                                                      	instance  	Organization   	named                   	MODIFIERS           	NOT_VAGUE
+the best films since 2000                                         	instance  	CreativeWork   	undetermined                   	adjective             	NOT_VAGUE

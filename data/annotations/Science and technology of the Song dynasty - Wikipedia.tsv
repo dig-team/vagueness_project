@@ -1,0 +1,52 @@
+expression                                      	plurality 	Yago4          	manifestation                  	modifiers            	vagueness
+The Song dynasty                                	instance  	organization   	determined contains_named      	MODIFIERS            	NOT_VAGUE
+some technological advances                       	class     	creativework   	numbered                    	adjective           	portions subjective
+Chinese history                                   	instance   	Event          	contains_named                 	adjective           	NOT_VAGUE
+talented statesmen                              	class     	person         	undetermined                   	adjective            	portions subjective
+the government                                  	instance  	organization   	determined                     	MODIFIERS            	NOT_VAGUE
+imperial examinations                           	class     	Action         	undetermined                   	adjective            	portions
+The ingenuity                                   	instance  	intangible     	determined                     	MODIFIERS           	subjective 
+advanced mechanical engineering                 	class     	CreativeWork   	mass_noun                     	adjective           	subjective portions
+a long tradition                                   	instance  	intangible     	undetermined                	adjective           	degree
+China                                            	instance  	Organization   	named                       	MODIFIERS           	NOT_VAGUE
+The Song engineer Su Song                       	instance  	person         	determined named contains_named	noun                 	NOT_VAGUE
+his contemporaries                              	class     	person         	determined qualified_anaphora  	MODIFIERS            	NOT_VAGUE
+the achievements                                	class     	creativework   	determined                     	MODIFIERS             	NOT_VAGUE
+the ancients                                       	class     	Person         	determined                     	MODIFIERS             	NOT_VAGUE
+Zhang Heng                                      	instance  	person         	named                          	MODIFIERS            	NOT_VAGUE
+an astronomer                                   	instance  	person         	undetermined                   	MODIFIERS            	NOT_VAGUE
+inventor                                        	instance  	person         	undetermined                   	MODIFIERS            	NOT_VAGUE
+an early master                                  	instance  	person         	undetermined                   	adjective           	degree
+mechanical gears                                 	instance  	Product        	undetermined                   	adjective           	NOT_VAGUE
+The application                                 	instance  	action         	determined                     	MODIFIERS             	NOT_VAGUE
+movable type printing                           	instance  	Product        	mass_noun                     	adjective noun         	NOT_VAGUE
+the already widespread use                      	instance  	action         	determined                     	adjective           	degree
+woodblock printing                              	instance  	Product        	mass_noun                     	adjective           	NOT_VAGUE
+Confucian students                              	class     	person         	undetermined contains_named    	adjective            	portions
+the masses                                      	class     	person         	determined                     	MODIFIERS            	NOT_VAGUE
+The application                                   	instance   	action         	determined                     	MODIFIERS             	NOT_VAGUE
+new weapons                                     	class     	Product        	undetermined                   	adjective             	portions
+the use                                         	instance  	action         	determined                     	MODIFIERS             	NOT_VAGUE
+gunpowder                                          	instance  	Product        	mass_noun                     	MODIFIERS             	NOT_VAGUE
+the Song                                        	instance  	organization   	determined named               	MODIFIERS            	NOT_VAGUE
+its militant enemies                            	class     	organization   	qualified_anaphora             	adjective            	NOT_VAGUE
+the Liao                                        	instance  	organization   	determined named               	adjective            	NOT_VAGUE
+Western Xia                                     	instance  	organization   	named                          	adjective            	NOT_VAGUE
+Jin                                             	class     	organization   	named                          	MODIFIERS            	NOT_VAGUE
+weapons                                         	instance  	product        	undetermined                   	MODIFIERS            	NOT_VAGUE
+cannons                                         	instance  	product        	undetermined                   	MODIFIERS            	NOT_VAGUE
+the Mongol forces                               	class     	organization   	determined contains_named      	adjective           	NOT_VAGUE
+Kublai Khan                                      	instance   	Person         	named                         	MODIFIERS           	NOT_VAGUE
+the late 13th century                           	instance  	event          	determined                     	adjective            	degree
+Notable advances                                   	class     	Intangible   	undetermined                   	adjective           	subjective
+civil engineering                                  	instance   	creativework   	mass_noun                   	adjective           	NOT_VAGUE
+nautics                                         	class     	action         	mass_noun                      	MODIFIERS            	NOT_VAGUE
+metallurgy                                      	instance  	action         	mass_noun                      	MODIFIERS            	NOT_VAGUE
+Song China                                      	instance  	organization   	named                          	MODIFIERS            	NOT_VAGUE
+the introduction                                	instance  	Event          	determined                     	MODIFIERS             	NOT_VAGUE
+the windmill                                    	instance  	Product        	determined                     	MODIFIERS             	NOT_VAGUE
+These advances                                  	class     	creativework   	qualified_anaphora             	MODIFIERS            	NOT_VAGUE
+the introduction                                 	instance  	Event          	determined                     	MODIFIERS             	NOT_VAGUE
+paper-printed money                              	instance  	Product        	mass_noun                     	MODIFIERS             	NOT_VAGUE
+the economy                                      	instance  	intangible     	determined                    	MODIFIERS             	NOT_VAGUE
+the Song dynasty                                	instance  	organization   	determined contains_named      	MODIFIERS            	NOT_VAGUE

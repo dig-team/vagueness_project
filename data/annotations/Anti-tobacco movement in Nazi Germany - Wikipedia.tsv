@@ -1,0 +1,93 @@
+expression                                                                           	plurality 	Yago4          	manifestation                	modifiers                 	vagueness
+the early 20th century                                                               	instance  	Event          	determined                   	adjective                 	degree
+German researchers                                                                   	class     	Person         	undetermined                 	adjective                 	portions
+advances                                                                            	class     	Event          	undetermined                 	MODIFIERS               	portions subjective
+linking smoking                                                                     	instance   	Action       	mass_noun                   	adjective               	subjective
+health harms                                                                        	class     	MedicalEntity 	undetermined                 	noun                    	portions subjective
+the anti-tobacco movement                                                           	instance  	Organization   	determined                   	adjective               	NOT_VAGUE
+the Weimar Republic                                                                  	instance  	Organization   	determined named               	MODIFIERS               	NOT_VAGUE
+a state-supported anti-smoking campaign                                              	instance  	Action         	undetermined                 	adjective                 	NOT_VAGUE
+Early anti-tobacco movements                                                         	class     	Organization   	undetermined                 	adjective                 	degree portions
+many nations                                                                        	class     	Organization   	numbered                     	MODIFIERS               	portions
+the middle                                                                            	class     	Intangible     	determined                     	MODIFIERS               	degree
+the 19th century                                                                      	class     	Event       	determined                     	MODIFIERS               	NOT_VAGUE
+The 1933–1945 anti-tobacco campaigns                                                	class     	Action         	determined                  	noun adjective          	NOT_VAGUE
+Nazi Germany                                                                        	class     	Action         	named                        	adjective               	NOT_VAGUE
+stronger laws                                                                        	class     	CreativeWork   	undetermined                 	adjective                 	subjective portions
+Germany                                                                              	instance  	Place        	named                        	MODIFIERS                 	NOT_VAGUE
+some American states                                                                 	class     	Place        	numbered                     	MODIFIERS                 	portions
+the UK                                                                               	instance  	Place        	determined named             	MODIFIERS                 	NOT_VAGUE
+anti-tobacco campaigns                                                               	class     	Action         	undetermined                 	adjective                 	portions
+the Nazi government                                                                  	instance  	Organization   	determined contains_named    	adjective                 	NOT_VAGUE
+The German movement                                                                  	instance  	Organization   	determined contains_named    	adjective                 	NOT_VAGUE
+the most powerful anti-smoking movement                                                	instance  	Organization   	determined                   	adjective               	subjective
+the world                                                                              	instance  	Place        	determined                   	MODIFIERS               	NOT_VAGUE
+the 1930s and early 1940s                                                           	class   	Event       	determined                   	adjective                	degree
+tobacco control policy                                                               	instance  	CreativeWork   	undetermined                 	noun                      	NOT_VAGUE
+uncoordinated and often regional efforts                                            	class     	Action         	undetermined                 	adjective               	subjective
+many actors                                                                         	class     	Organization   	numbered                    	MODIFIERS               	portions
+Obvious measures                                                                     	class     	Action         	undetermined                 	adjective                 	portions subjective
+existing measures                                                                    	class     	Action         	undetermined                 	adjective                 	portions
+Some Nazi leaders                                                                    	class     	Person         	numbered contains_named      	adjective                 	portions
+smoking                                                                              	instance  	Action         	mass_noun                    	MODIFIERS                 	NOT_VAGUE
+tobacco consumption                                                                  	instance  	Action         	mass_noun                    	noun                      	NOT_VAGUE
+much research                                                                       	class     	Action         	mass_noun numbered             	MODIFIERS               	portions
+smoking                                                                             	instance   	Action         	mass_noun                     	MODIFIERS                  	NOT_VAGUE
+its effects                                                                         	class     	Intangible     	anaphora                     	MODIFIERS               	portions
+health                                                                              	class     	Intangible     	mass_noun                     	MODIFIERS               	NOT_VAGUE
+Nazi rule                                                                            	instance  	Event          	undetermined contains_named  	adjective                 	NOT_VAGUE
+A directly-supported tobacco research institute                                      	instance  	Organization   	undetermined                 	noun adjective            	NOT_VAGUE
+work                                                                                	class     	CreativeWork   	mass_noun                    	MODIFIERS               	portions
+only marginal scientific importance                                                    	class     	Intangible   	mass_noun                    	adjective               	subjective
+substantial academic work                                                            	class     	CreativeWork   	mass_noun                    	adjective                 	subjective portions
+little to negative official support                                                  	instance  	Action         	mass_noun                    	adjective                 	subjective
+Adolf Hitler's personal distaste                                                    	instance  	Intangible     	mass_noun contains_named     	adjective               	NOT_VAGUE
+tobacco                                                                             	instance  	Product     	mass_noun                   	MODIFIERS               	NOT_VAGUE
+the Nazi reproductive policies                                                       	class     	CreativeWork   	determined contains_named    	adjective                 	NOT_VAGUE
+the motivating factors                                                                 	class     	Intangible     	determined                   	adjective               	subjective
+the Nazi campaigns                                                                  	class     	CreativeWork   	determined                   	adjective               	NOT_VAGUE
+smoking                                                                             	instance   	Action         	mass_noun                     	MODIFIERS                  	NOT_VAGUE
+The Nazi anti-tobacco campaign                                                       	instance  	Action         	determined contains_named    	adjective                 	NOT_VAGUE
+banning smoking                                                                     	instance  	Action         	mass_noun                    	MODIFIERS               	NOT_VAGUE
+trams                                                                                	class     	Product        	undetermined                 	MODIFIERS                 	NOT_VAGUE
+buses                                                                                	class     	Product        	undetermined                 	MODIFIERS                 	NOT_VAGUE
+city trains                                                                          	class     	Product        	undetermined                 	noun                      	NOT_VAGUE
+promoting health education                                                           	instance  	Action         	mass_noun                    	MODIFIERS                 	subjective
+limiting cigarette rations                                                          	class     	Action         	mass_noun                    	noun                    	portions
+the Wehrmacht                                                                       	instance   	Organization   	determined named               	MODIFIERS               	NOT_VAGUE
+organizing medical lectures                                                            	class     	Action         	mass_noun                    	adjective               	portions
+soldiers                                                                            	class     	Action         	undetermined                   	MODIFIERS               	NOT_VAGUE
+the tobacco tax                                                                      	instance  	CreativeWork   	determined                   	noun                      	NOT_VAGUE
+The Nazis                                                                            	class     	Person         	determined named             	MODIFIERS                 	NOT_VAGUE
+restrictions                                                                        	class     	Action         	mass_noun                    	MODIFIERS               	portions
+tobacco advertising                                                                 	class   	Action         	mass_noun                    	MODIFIERS               	NOT_VAGUE
+smoking                                                                             	class     	Action         	mass_noun                    	MODIFIERS               	NOT_VAGUE
+public spaces                                                                       	class     	Place        	undetermined                   	adjective               	NOT_VAGUE
+restaurants                                                                          	class     	Organization   	undetermined                 	MODIFIERS                 	NOT_VAGUE
+coffeehouses                                                                         	class     	Organization   	undetermined                 	MODIFIERS                 	NOT_VAGUE
+These measures                                                                       	class     	Action         	anaphora                     	MODIFIERS                 	NOT_VAGUE
+The movement                                                                         	instance  	Organization   	determined anaphora          	MODIFIERS                 	NOT_VAGUE
+the number                                                                          	instance  	Intangible     	determined                   	MODIFIERS               	NOT_VAGUE
+smokers                                                                              	class   	Person      	undetermined                   	MODIFIERS               	NOT_VAGUE
+Tobacco use                                                                          	instance  	Action         	mass_noun                    	noun                      	NOT_VAGUE
+the early years                                                                     	class     	Event          	determined                  	adjective               	degree
+the Nazi regime                                                                     	instance   	Organization   	determined contains_named    	adjective               	NOT_VAGUE
+cigarette consumption                                                                	instance  	Action         	mass_noun                    	noun                      	NOT_VAGUE
+the end                                                                               	instance  	Event          	determined                  	MODIFIERS               	NOT_VAGUE
+the war                                                                             	instance  	Event          	determined                  	MODIFIERS               	NOT_VAGUE
+post-war poverty                                                                     	instance  	Intangible     	mass_noun                    	adjective                 	subjective
+the increasing numbers                                                              	class     	Intangible     	determined                   	adjective                	NOT_VAGUE
+smokers                                                                              	class   	Person      	undetermined                   	MODIFIERS               	NOT_VAGUE
+many cigarettes                                                                      	class     	Product        	numbered                     	MODIFIERS                 	portions
+Nazi-related nicotine marketing messages                                             	class     	CreativeWork   	undetermined contains_named  	noun adjective noun       	NOT_VAGUE
+tobacco control                                                                      	instance  	Action         	mass_noun                    	noun                      	NOT_VAGUE
+historical inaccuracy                                                                	instance  	Intangible     	mass_noun                    	adjective                 	subjective
+the end                                                                             	instance  	Event          	determined                  	MODIFIERS               	degree
+the 20th century                                                                    	instance  	Event          	determined                  	MODIFIERS               	degree
+the anti-smoking movement                                                           	instance  	Organization   	determined                  	adjective                	NOT_VAGUE
+Germany                                                                             	instance  	Organization   	named                       	MODIFIERS               	NOT_VAGUE
+the influence                                                                       	instance  	Intangible     	determined                   	MODIFIERS               	subjective
+the Nazi anti-smoking campaign                                                      	instance  	Action      	determined                   	MODIFIERS               	NOT_VAGUE
+the weakest tobacco control                                                          	instance  	Action         	determined                   	adjective noun            	NOT_VAGUE
+Europe                                                                               	class     	Place        	named                        	MODIFIERS                 	NOT_VAGUE
+German tobacco research                                                              	instance  	Action         	mass_noun contains_named     	adjective                 	portions

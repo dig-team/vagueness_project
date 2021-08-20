@@ -1,0 +1,106 @@
+expression                                                           	plurality 	Yago4          	manifestation                      	modifiers            	vagueness
+The writing systems                                                  	class     	CreativeWork   	determined                         	noun                 	NOT_VAGUE
+ancient Egypt                                                        	instance  	Organization   	named                              	adjective            	NOT_VAGUE
+the work                                                            	class     	CreativeWork   	determined contains_named          	MODIFIERS             	NOT_VAGUE
+several European scholars                                            	class     	Person         	numbered                          	adjective             	portions
+Jean-François Champollion                                            	instance  	Person         	named                              	MODIFIERS            	NOT_VAGUE
+Thomas Young                                                         	instance  	Person         	named                              	MODIFIERS            	NOT_VAGUE
+Ancient Egyptian forms                                              	class     	CreativeWork   	undetermined contains_named        	adjective            	portions
+writing                                                             	class     	CreativeWork   	mass_noun                       	MODIFIERS            	portions
+the hieroglyphic, hieratic and demotic scripts                       	class     	CreativeWork   	determined contains_named          	adjective            	NOT_VAGUE
+the Coptic alphabet                                                  	instance  	CreativeWork   	determined contains_named          	adjective            	NOT_VAGUE
+their place                                                          	instance  	Intangible     	qualified_anaphora                 	MODIFIERS            	NOT_VAGUE
+Later generations' knowledge                                        	class     	Intangible     	mass_noun                       	noun                 	degree
+the older scripts                                                      	class     	CreativeWork   	determined                      	adjective            	degree
+the work                                                              	class    	CreativeWork   	determined mass_noun            	MODIFIERS             	NOT_VAGUE
+Greek and Roman authors                                             	class     	Person         	undetermined                    	adjective             	portions
+Egyptian scripts                                                     	class     	CreativeWork   	undetermined contains_named        	adjective            	NOT_VAGUE
+ideas                                                                	class     	CreativeWork   	undetermined                       	MODIFIERS            	portions
+sounds                                                               	class     	CreativeWork   	undetermined                       	MODIFIERS            	portions
+hieroglyphs                                                          	class     	CreativeWork   	undetermined                       	MODIFIERS            	NOT_VAGUE
+an esoteric, mystical script                                         	instance  	CreativeWork   	undetermined                       	adjective            	NOT_VAGUE
+a means                                                                	instance  	CreativeWork   	undetermined                       	MODIFIERS             	NOT_VAGUE
+recording a spoken language                                            	instance  	CreativeWork   	undetermined                       	adjective             	NOT_VAGUE
+Some attempts                                                          	class     	Action         	numbered                           	MODIFIERS             	portions
+decipherment                                                           	class     	Action         	mass_noun                         	MODIFIERS             	NOT_VAGUE
+Islamic and European scholars                                          	class     	Person         	undetermined                       	adjective             	portions
+the Middle Ages and early modern times                               	class     	Event          	named determined                   	adjective            	degree
+the script                                                           	instance  	CreativeWork   	determined anaphora                	MODIFIERS            	NOT_VAGUE
+a phonetic component                                                 	instance  	CreativeWork   	undetermined                       	adjective            	NOT_VAGUE
+perception                                                            	instance  	Intangible     	mass_noun                          	MODIFIERS             	NOT_VAGUE
+hieroglyphs                                                           	instance  	CreativeWork  	undetermined                       	MODIFIERS             	NOT_VAGUE
+purely odeographic                                                  	instance  	CreativeWork   	mass_noun                          	MODIFIERS             	NOT_VAGUE
+efforts                                                              	class     	Action         	undetermined                       	modifiers            	portions
+The Rosetta Stone                                                    	instance  	CreativeWork   	determined named                   	MODIFIERS            	NOT_VAGUE
+members                                                             	class     	Person         	undetermined                       	MODIFIERS              	portions
+Napoleon Bonaparte's campaign                                       	class     	Event         	undetermined contains_named       	MODIFIERS             	NOT_VAGUE
+Egypt                                                                	class     	Place        	named                           	MODIFIERS             	NOT_VAGUE
+a parallel text                                                      	instance  	CreativeWork   	undetermined                       	adjective            	NOT_VAGUE
+the Egyptian text                                                    	instance  	CreativeWork   	determined contains_named          	adjective            	NOT_VAGUE
+its Greek translation                                                	instance  	CreativeWork   	qualified_anaphora contains_named  	adjective            	NOT_VAGUE
+combination                                                            	instance  	Intangible     	undetermined                       	MODIFIERS             	NOT_VAGUE
+the evidence                                                          	instance  	Intangible     	determined                       	MODIFIERS             	NOT_VAGUE
+the Coptic language                                                  	instance  	CreativeWork   	determined                       	adjective             	NOT_VAGUE
+the last stage                                                        	instance  	Intangible     	determined                         	adjective           	subjective
+the Egyptian language                                                  	instance  	CreativeWork   	determined                         	adjective           	NOT_VAGUE
+progress                                                             	instance  	intangible     	mass_noun                          	modifiers            	NOT_VAGUE
+Antoine-Isaac Silvestre de Sacy                                      	instance  	Person         	named                              	MODIFIERS            	NOT_VAGUE
+Johan David Åkerblad                                                 	instance  	Person         	named                              	MODIFIERS            	NOT_VAGUE
+Young                                                                	instance  	Person         	named                              	MODIFIERS            	NOT_VAGUE
+their work                                                           	class     	CreativeWork   	qualified_anaphora                 	MODIFIERS            	NOT_VAGUE
+demotic characters                                                   	class     	CreativeWork   	undetermined contains_named        	adjective            	NOT_VAGUE
+hieroglyphs                                                          	class     	CreativeWork   	undetermined                       	MODIFIERS            	NOT_VAGUE
+the phonetic signs                                                   	class     	CreativeWork   	determined                         	adjective            	NOT_VAGUE
+demotic                                                              	instance  	CreativeWork   	named                              	MODIFIERS            	NOT_VAGUE
+the meaning                                                           	instance  	Intangible     	determined mass_noun               	MODIFIERS             	NOT_VAGUE
+many hieroglyphs                                                      	class     	CreativeWork   	numbered                           	MODIFIERS             	portions
+phonetic glyphs                                                        	class  	CreativeWork   	undetermined                       	adjective           	portions
+a cartouche                                                            	instance  	CreativeWork   	undetermined                       	MODIFIERS           	NOT_VAGUE
+the name                                                               	instance  	CreativeWork   	determined                         	MODIFIERS           	NOT_VAGUE
+an Egyptian king                                                       	instance  	Person       	undetermined                       	adjective           	NOT_VAGUE
+foreign origin                                                        	instance  	Intangible     	undetermined                      	adjective           	NOT_VAGUE
+Ptolemy V                                                            	instance  	Person         	named                              	MODIFIERS            	NOT_VAGUE
+phonetic hieroglyphs                                                 	class     	CreativeWork   	undetermined                       	adjective            	NOT_VAGUE
+non-Egyptian words                                                   	class     	CreativeWork   	undetermined contains_named        	adjective            	NOT_VAGUE
+Champollion                                                          	instance  	Person         	named                              	MODIFIERS            	NOT_VAGUE
+Ptolemy's cartouche                                                  	instance  	CreativeWork   	determined                      	MODIFIERS            	NOT_VAGUE
+the hieroglyphic script                                              	instance  	CreativeWork   	determined                         	adjective            	NOT_VAGUE
+a mixture                                                              	instance  	CreativeWork   	undetermined                       	MODIFIERS             	degree
+phonetic and ideographic elements                                      	class  	CreativeWork   	undetermined                       	MODIFIERS             	portions
+His claims                                                           	class     	CreativeWork   	qualified_anaphora                 	MODIFIERS            	NOT_VAGUE
+scepticism                                                           	instance  	Action         	mass_noun                          	modifiers            	subjective
+accusations                                                          	class     	CreativeWork   	undetermined                       	modifiers            	portions
+ideas                                                                	class     	CreativeWork   	undetermined                       	MODIFIERS             	portions
+Young                                                                	instance  	Person         	named                              	MODIFIERS            	NOT_VAGUE
+credit                                                               	instance  	intangible     	undetermined mass_noun             	modifiers            	NOT_VAGUE
+acceptance                                                           	instance  	Action         	undetermined mass_noun             	modifiers            	subjective
+Champollion                                                          	instance  	Person         	named                              	MODIFIERS            	NOT_VAGUE
+the meanings                                                        	class     	Intangible     	determined                         	MODIFIERS           	NOT_VAGUE
+most phonetic hieroglyphs                                             	class     	CreativeWork   	numbered                         	adjective           	portions
+much of the grammar and vocabulary                                     	class     	CreativeWork   	numbered mass_noun                 	preposition          	portions
+ancient Egyptian                                                    	instance  	CreativeWork   	named                           	adjective             	degree
+Young                                                                	instance  	Person         	named                              	MODIFIERS            	NOT_VAGUE
+demotic                                                              	instance  	CreativeWork   	named                              	MODIFIERS            	NOT_VAGUE
+the Rosetta Stone                                                    	instance  	CreativeWork   	determined named                   	MODIFIERS            	NOT_VAGUE
+Greek and demotic parallel texts                                     	class     	CreativeWork   	undetermined                       	adjective            	NOT_VAGUE
+Decipherment efforts                                                 	class     	Action         	undetermined                       	noun                 	portions
+Young's death                                                        	instance  	Event          	determined                      	MODIFIERS            	NOT_VAGUE
+Champollion's (death)                                                	instance  	Event          	qualified_anaphora                 	MODIFIERS            	NOT_VAGUE
+Karl Richard Lepsius                                                 	instance  	Person         	named                              	MODIFIERS            	NOT_VAGUE
+many hieroglyphs                                                     	class     	CreativeWork   	numbered                           	MODIFIERS            	portions
+combinations                                                          	class     	Intangible     	undetermined                       	MODIFIERS             	portions
+two or three sounds                                                   	class     	CreativeWork   	numbered                           	MODIFIERS             	NOT_VAGUE
+one of the most fundamental faults                                   	instance   	Intangible     	numbered                           	adjective preposition	NOT_VAGUE
+Champollion's work                                                  	class     	CreativeWork   	contains_named                     	MODIFIERS           	portions
+Other scholars                                                       	class     	Person         	undetermined                       	adjective            	portions
+Emmanuel de Rougé                                                    	instance  	Person         	named                              	MODIFIERS            	NOT_VAGUE
+the understanding                                                     	instance  	Intangible     	determined                         	MODIFIERS             	subjective
+Egyptian                                                              	instance  	CreativeWork   	named                             	MODIFIERS             	NOT_VAGUE
+ancient Egyptian texts                                               	class     	CreativeWork   	undetermined contains_named        	adjective            	NOT_VAGUE
+the decipherment                                                       	instance  	Action         	determined                         	MODIFIERS             	NOT_VAGUE
+cuneiform                                                            	instance  	CreativeWork   	mass_noun                         	MODIFIERS             	NOT_VAGUE
+the same time                                                        	instance  	Event          	determined                         	adjective            	NOT_VAGUE
+their work                                                           	instance  	creativework   	qualified_anaphora mass_noun       	modifiers            	NOT_VAGUE
+the once-inaccessible texts                                         	class     	CreativeWork   	determined                         	adjective           	NOT_VAGUE
+the earliest stages                                                 	class     	Event          	determined                         	adjective           	degree
+human history                                                       	instance   	Intangible   	mass_noun                         	adjective           	NOT_VAGUE

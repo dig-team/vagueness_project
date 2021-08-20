@@ -1,0 +1,85 @@
+expression                                                                     	plurality 	Yago4          	manifestation                               	modifiers            	vagueness
+Truthiness                                                                     	instance  	intangible     	undetermined                                	MODIFIERS            	NOT_VAGUE
+the belief                                                                     	instance  	intangible     	determined mass_noun                        	MODIFIERS            	NOT_VAGUE
+assertion                                                                      	instance  	intangible     	undetermined                                	adjective           	NOT_VAGUE
+a particular statement                                                         	instance  	intangible     	undetermined                                	adjective           	NOT_VAGUE
+the intuition                                                                  	instance  	intangible     	determined mass_noun                        	MODIFIERS            	subjective
+perceptions                                                                  	class     	intangible     	undetermined                                   	MODIFIERS             	portions subjective
+some individual or individuals                                                 	class     	Person       	numbered                                    	MODIFIERS             	portions
+regard                                                                         	instance  	intangible     	mass_noun                                   	MODIFIERS            	NOT_VAGUE
+evidence                                                                       	instance  	intangible     	mass_noun                                   	MODIFIERS            	subjective
+logic                                                                          	instance  	intangible     	mass_noun                                   	MODIFIERS            	NOT_VAGUE
+intellectual examination                                                       	instance  	creativework   	mass_noun                                   	adjective            	subjective
+facts                                                                          	class     	intangible     	undetermined                                	MODIFIERS            	NOT_VAGUE
+ignorant assertions                                                           	class     	creativework   	undetermined                                	adjective           	portions subjective
+falsehoods                                                                   	class     	creativework   	undetermined                                	MODIFIERS           	portions subjective
+deliberate duplicity                                                           	instance  	intangible     	mass_noun                                   	MODIFIERS            	portions subjective
+propaganda                                                                     	instance  	intangible     	mass_noun                                   	MODIFIERS            	subjective
+opinions                                                                       	class     	intangible     	undetermined                                	MODIFIERS            	portions
+The concept                                                                   	instance  	intangible     	determined                                  	MODIFIERS             	NOT_VAGUE
+truthiness                                                                    	instance  	intangible     	undetermined                                  	MODIFIERS             	NOT_VAGUE
+a major subject                                                               	instance  	intangible     	undetermined                                	adjective           	subjective
+discussion                                                                   	instance  	intangible     	mass_noun                                   	MODIFIERS           	NOT_VAGUE
+US politics                                                                    	class     	intangible     	undetermined                                	MODIFIERS            	portions
+late 20th and early 21st centuries                                             	class     	intangible     	numbered                                    	MODIFIERS            	degree
+the perception                                                              	instance  	intangible     	determined                                   	MODIFIERS             	subjective
+some observers                                                              	class     	Person         	numbered                                     	MODIFIERS             	portions
+a rise                                                                      	instance   	intangible     	undetermined                                 	MODIFIERS             	degree
+propaganda                                                                  	class     	intangible     	mass_noun                                    	MODIFIERS             	NOT_VAGUE
+a growing hostility                                                            	instance  	intangible     	undetermined                                	adjective           	subjective
+factual reporting                                                              	instance  	Action       	mass_noun                                      	adjective           	NOT_VAGUE
+fact-based discussion                                                          	instance  	action         	mass_noun                                   	adjective            	NOT_VAGUE
+American television comedian Stephen Colbert                                   	instance  	person         	named                                       	adjective            	NOT_VAGUE
+the term truthiness                                                            	instance  	creativework   	determined                                     	noun                  	NOT_VAGUE
+this meaning                                                                   	instance  	intangible     	qualified_anaphora                            	MODIFIERS             	NOT_VAGUE
+the subject                                                                    	instance  	intangible     	determined                                     	MODIFIERS             	NOT_VAGUE
+a segment                                                                      	instance  	intangible     	undetermined                                   	MODIFIERS             	NOT_VAGUE
+The Word                                                                       	instance  	creativework   	determined                                  	adjective           	NOT_VAGUE
+the pilot episode                                                              	instance  	creativework   	determined                                  	noun                	NOT_VAGUE
+his political satire program The Colbert Report                               	instance  	creativework   	qualified_anaphora named                    	adjective noun      	NOT_VAGUE
+part of his routine                                                            	instance  	intangible     	qualified_anaphora mass_noun                	preposition          	NOT_VAGUE
+Colbert                                                                        	instance  	person         	undetermined                                	MODIFIERS            	NOT_VAGUE
+the misuse                                                                     	instance  	Intangible     	determined mass_noun                        	MODIFIERS             	subjective
+appeal to emotion                                                             	instance  	action         	determined mass_noun                        	MODIFIERS             	NOT_VAGUE
+gut feeling                                                                 	instance  	intangible     	undetermined                                	noun                	subjective
+a rhetorical device                                                         	instance  	CreativeWork   	undetermined                                	adjective           	NOT_VAGUE
+contemporaneous socio-political discourse                                   	instance  	CreativeWork   	undetermined                                	adjective           	subjective
+President George W Bush's nomination                                         	instance  	event          	contains_named                              	MODIFIERS             	NOT_VAGUE
+Harriet Miers                                                                	instance  	Person        	named                                         	MODIFIERS             	NOT_VAGUE
+the Supreme Court                                                           	instance  	Organization   	determined named                              	MODIFIERS             	NOT_VAGUE
+the decision                                                                   	instance  	intangible     	determined mass_noun                        	MODIFIERS            	NOT_VAGUE
+Iraq                                                                           	instance  	Place        	undetermined                                	MODIFIERS            	NOT_VAGUE
+other institutions                                                             	class     	organization   	undetermined                                	adjective            	portions
+organizations                                                                  	class     	organization   	undetermined                                	MODIFIERS            	portions
+Wikipedia                                                                      	instance  	creativework   	named                                       	MODIFIERS            	NOT_VAGUE
+a Dog Latin version                                                          	instance  	creativework   	undetermined contains_named                 	MODIFIERS             	NOT_VAGUE
+the term                                                                     	instance  	creativework   	determined                                   	MODIFIERS             	NOT_VAGUE
+Veritasiness                                                                   	instance  	creativework   	undetermined                                	MODIFIERS            	NOT_VAGUE
+example                                                                        	instance  	intangible     	undetermined                                	MODIFIERS            	NOT_VAGUE
+Colbert's Operation Iraqi Stephen: Going Commando                              	instance  	creativework   	named                                       	MODIFIERS            	NOT_VAGUE
+the word Veritasiness                                                          	instance  	creativework   	determined named                            	MODIFIERS            	NOT_VAGUE
+the banner                                                                   	instance  	CreativeWork   	determined                                  	MODIFIERS             	NOT_VAGUE
+the eagle                                                                    	instance  	Taxon        	determined                                  	MODIFIERS             	NOT_VAGUE
+the operation's seal                                                         	instance  	CreativeWork   	determined                                  	MODIFIERS             	NOT_VAGUE
+Word of the Year                                                               	instance  	creativework   	named                                       	preposition          	NOT_VAGUE
+the American Dialect Society                                                   	instance  	organization   	determined named                            	adjective            	NOT_VAGUE
+Merriam-Webster                                                                	instance  	organization   	named                                       	MODIFIERS            	NOT_VAGUE
+Linguist and OED consultant Benjamin Zimmer                                    	instance  	person         	named                                       	MODIFIERS            	NOT_VAGUE
+the word truthiness                                                            	instance  	creativework   	determined                                  	MODIFIERS            	NOT_VAGUE
+a history                                                                   	instance  	intangible     	undetermined                                	MODIFIERS             	NOT_VAGUE
+literature                                                                  	instance  	CreativeWork   	mass_noun                                   	MODIFIERS             	NOT_VAGUE
+the Oxford English Dictionary (OED)                                            	instance  	creativework   	determined named                            	MODIFIERS            	NOT_VAGUE
+a derivation                                                                 	instance  	intangible     	undetermined                                	MODIFIERS              	NOT_VAGUE
+truthy                                                                       	instance  	intangible     	undetermined                                	MODIFIERS             	NOT_VAGUE
+The Century Dictionary                                                         	instance  	creativework   	determined named                            	MODIFIERS            	NOT_VAGUE
+truthfulness                                                                   	instance  	intangible     	mass_noun                                   	MODIFIERS            	NOT_VAGUE
+faithfulness                                                                   	instance  	intangible     	mass_noun                                   	MODIFIERS            	NOT_VAGUE
+claims                                                                      	class     	action         	undetermined                                 	MODIFIERS             	portions
+Michael Adams                                                                  	instance   	Person         	named                                       	MODIFIERS             	NOT_VAGUE
+the word                                                                       	instance  	CreativeWork   	determined                                  	MODIFIERS             	NOT_VAGUE
+a different meaning                                                            	instance  	intangible     	undetermined                                	adjective            	degree
+his definition                                                              	instance  	creativework   	qualified_anaphora mass_noun                	preposition          	NOT_VAGUE
+the word                                                                       	instance  	CreativeWork   	determined                                  	MODIFIERS             	NOT_VAGUE
+Truthiness                                                                     	instance  	creativework   	mass_noun                                   	MODIFIERS             	NOT_VAGUE
+a word                                                                         	instance  	intangible     	undetermined                                	MODIFIERS            	NOT_VAGUE
+my keister                                                                     	instance  	Taxon          	qualified_anaphora                          	MODIFIERS            	NOT_VAGUE

@@ -1,0 +1,74 @@
+expression                                                                    	plurality 	Yago4          	manifestation               	modifiers            	vagueness
+Alpha Kappa Alpha Sorority, Inc.                                              	instance  	Organization   	named                       	MODIFIERS            	NOT_VAGUE
+the first historically African American Greek-lettered sorority               	instance  	Organization   	determined                  	adjective            	NOT_VAGUE
+The organization                                                              	instance  	Organization   	determined anaphora         	MODIFIERS            	NOT_VAGUE
+five basic tenets                                                             	class     	CreativeWork   	numbered                    	adjective            	NOT_VAGUE
+high scholastic and ethical standards                                         	class     	CreativeWork   	undetermined                	adjective            	portions subjective
+unity and friendship                                                        	class     	Intangible     	mass_noun                   	MODIFIERS           	NOT_VAGUE
+college women                                                               	class     	Person      	undetermined                   	adjective           	NOT_VAGUE
+problems                                                                    	class     	Intangible     	undetermined                	MODIFIERS          	    portions subjective
+girls and women                                                             	class     	Person      	undetermined                	MODIFIERS          	    portions
+their social stature                                                          	instance  	Intangible     	qualified_anaphora mass_noun	adjective            	subjective
+a progressive interest                                                      	instance  	Intangible     	undetermined                	adjective           	subjective
+college life                                                                	instance  	Intangible     	undetermined                	noun                	NOT_VAGUE
+Service                                                                     	instance  	Action         	mass_noun                   	MODIFIERS           	subjective
+All Mankind                                                                 	instance  	Person         	determined                   	MODIFIERS            	NOT_VAGUE
+The sorority                                                                  	instance  	Organization   	determined anaphora         	MODIFIERS            	NOT_VAGUE
+the historically black Howard University                                    	instance  	Organization   	determined named            	adjective           	NOT_VAGUE
+Washington D.C.                                                             	instance  	Place        	named                       	MODIFIERS           	NOT_VAGUE
+a group                                                                     	instance  	Person         	numbered                    	MODIFIERS           	NOT_VAGUE
+sixteen students                                                            	instance  	Person         	numbered                    	adjective           	NOT_VAGUE
+Ethel Hedgeman Lyle                                                           	instance  	Person         	named                       	MODIFIERS            	NOT_VAGUE
+a sorority                                                                    	instance  	Organization   	undetermined anaphora       	MODIFIERS            	NOT_VAGUE
+barriers                                                                      	class     	Intangible     	undetermined                	adjective            	portions
+African-American women                                                        	class     	Person         	undetermined                	adjective            	portions
+areas                                                                         	class     	Intangible     	undetermined                	MODIFIERS            	portions
+little power or authority                                                     	instance  	Intangible     	mass_noun                   	adjective            	subjective
+a lack                                                                      	instance  	Intangible     	undetermined                	MODIFIERS           	subjective
+opportunities                                                               	class   	Intangible     	undetermined                	MODIFIERS           	portions subjective
+minorities and women                                                        	class   	Person      	undetermined                	MODIFIERS           	portions
+the early 20th century                                                      	instance  	Event       	determined                  	MODIFIERS           	degree
+Alpha Kappa Alpha                                                             	instance  	Organization   	named                       	MODIFIERS            	NOT_VAGUE
+The sorority                                                                  	instance  	Organization   	determined anaphora         	MODIFIERS            	NOT_VAGUE
+one of the nation's largest Greek-letter organizations                        	class     	Organization   	determined                   	adjective            	portions
+college-educated women                                                      	class     	Person         	undetermined                	adjective           	portions
+many diverse backgrounds                                                    	class     	Intangible     	numbered                    	adjective           	portions subjective
+around the world                                                            	class     	Person         	determined                  	MODIFIERS           	NOT_VAGUE
+a membership                                                                	instance  	Intangible     	undetermined                	MODIFIERS           	NOT_VAGUE
+more than 300,000 women                                                     	class     	Person       	numbered                    	MODIFIERS           	portions
+1,024 chapters                                                              	class     	Organization   	numbered                    	MODIFIERS           	NOT_VAGUE
+the United States                                                           	instance  	Organization   	determined named               	MODIFIERS           	NOT_VAGUE
+several other countries                                                       	class     	Organization   	numbered                    	adjective            	portions
+Women                                                                         	class     	Person         	undetermined                	MODIFIERS            	portions
+undergraduate chapters                                                      	class     	Organization   	undetermined                	adjective           	portions
+a college or university                                                     	instance   	Organization   	undetermined                	MODIFIERS           	NOT_VAGUE
+a graduate chapter                                                            	instance  	Organization   	undetermined                	adjective            	NOT_VAGUE
+an undergraduate or advanced college degree                                   	instance  	CreativeWork   	undetermined                	adjective            	NOT_VAGUE
+the organization's establishment                                              	instance  	Event          	determined                  	MODIFIERS            	NOT_VAGUE
+Alpha Kappa Alpha                                                             	instance  	Organization   	named                       	MODIFIERS            	NOT_VAGUE
+social and economic conditions                                                	class     	Intangible     	undetermined                	adjective            	portions subjective
+community service programs                                                    	class     	CreativeWork   	undetermined                	adjective            	portions
+Members                                                                       	class     	Person         	undetermined                	MODIFIERS            	NOT_VAGUE
+education                                                                     	instance  	Action         	mass_noun                   	MODIFIERS            	NOT_VAGUE
+independent initiatives                                                       	class     	Action         	undetermined                	adjective            	portions
+community-building                                                            	class     	Action         	undetermined                	MODIFIERS            	subjective
+creating programs                                                             	class     	Action         	undetermined                	adjective            	portions
+associations                                                                  	class     	Organization   	undetermined                	MODIFIERS            	portions
+the Mississippi Health Clinic                                                 	instance  	Organization   	determined named            	MODIFIERS            	NOT_VAGUE
+federal legislation                                                           	instance  	CreativeWork   	mass_noun                   	adjective            	NOT_VAGUE
+Congressional lobbying                                                        	instance  	Action         	mass_noun                   	adjective            	NOT_VAGUE
+the National Non-Partisan Lobby on Civil and Democratic Rights                	instance  	Organization   	determined named            	adjective           	NOT_VAGUE
+The sorority                                                                  	instance  	Organization   	determined anaphora         	MODIFIERS            	NOT_VAGUE
+communities                                                                   	class     	Organization   	undetermined                	MODIFIERS            	portions
+service initiatives                                                           	class     	Action         	undetermined                	adjective            	portions
+progressive programs                                                          	class     	CreativeWork   	undetermined                	adjective            	portions subjective
+education                                                                     	instance  	Action         	mass_noun                   	MODIFIERS            	NOT_VAGUE
+family                                                                        	instance  	Intangible     	mass_noun                   	MODIFIERS            	NOT_VAGUE
+health                                                                        	instance  	Intangible     	mass_noun                   	MODIFIERS            	NOT_VAGUE
+business                                                                      	instance  	Intangible     	mass_noun                   	MODIFIERS            	NOT_VAGUE
+Alpha Kappa Alpha                                                             	instance  	Organization   	named                       	MODIFIERS            	NOT_VAGUE
+part of the National Pan-Hellenic Council                                     	instance  	Organization   	undetermined                	preposition          	NOT_VAGUE
+The current International President                                           	instance  	Person         	determined anaphora         	adjective            	NOT_VAGUE
+Dr. Glenda Glover                                                             	instance  	Person         	named                       	MODIFIERS            	NOT_VAGUE
+the sorority's document and pictorial archives                                	class     	CreativeWork   	determined                  	adjective            	NOT_VAGUE
+Moorland-Spingarn Research Center                                             	instance  	Place        	named                       	MODIFIERS            	NOT_VAGUE

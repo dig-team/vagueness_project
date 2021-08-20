@@ -1,0 +1,94 @@
+expression                                         	plurality 	Yago4          	manifestation              	modifiers            	vagueness
+mathematics                                        	class     	Intangible     	mass_noun                  	MODIFIERS            	NOT_VAGUE
+a group                                            	instance  	Intangible     	undetermined               	MODIFIERS            	NOT_VAGUE
+a set                                              	instance  	Intangible     	undetermined               	MODIFIERS            	NOT_VAGUE
+a binary operation                                 	instance  	Intangible     	undetermined               	adjective            	NOT_VAGUE
+any two elements                                   	class     	Intangible     	numbered                   	MODIFIERS            	NOT_VAGUE
+a third element                                    	instance  	Intangible     	undetermined               	adjective            	NOT_VAGUE
+a way                                              	class     	Intangible     	undetermined               	MODIFIERS            	NOT_VAGUE
+four conditions                                    	class     	Intangible     	numbered                   	MODIFIERS            	NOT_VAGUE
+group axioms                                       	class     	Intangible     	undetermined               	noun                 	NOT_VAGUE
+closure                                            	instance  	Intangible     	mass_noun                  	MODIFIERS            	NOT_VAGUE
+associativity                                      	instance  	Intangible     	mass_noun                  	MODIFIERS            	NOT_VAGUE
+identity                                           	instance  	Intangible     	mass_noun                  	MODIFIERS            	NOT_VAGUE
+invertibility                                      	instance  	Intangible     	mass_noun                  	MODIFIERS            	NOT_VAGUE
+One of the most familiar examples                  	class     	Intangible     	determined                 	adjective           	degree
+a group                                            	instance  	Intangible     	undetermined               	MODIFIERS            	NOT_VAGUE
+the set                                         	class     	Intangible     	determined                 	MODIFIERS             	NOT_VAGUE
+integers                                        	class     	Intangible     	undetermined               	MODIFIERS             	NOT_VAGUE
+the addition operation                             	instance  	Intangible     	determined                 	noun                 	NOT_VAGUE
+groups                                             	class     	Intangible     	undetermined               	MODIFIERS            	NOT_VAGUE
+numerous areas                                     	class     	Intangible     	undetermined               	adjective            	portions
+essential structural aspects                       	class     	Intangible     	undetermined               	adjective            	subjective portions
+the concrete nature                             	instance  	Intangible     	determined mass_noun       	adjective           	subjective
+the subject                                     	instance  	Intangible     	determined                 	MODIFIERS           	NOT_VAGUE
+the study                                       	instance  	Intangible     	determined mass_noun       	MODIFIERS           	NOT_VAGUE
+a fundamental kinship                             	instance  	Intangible     	undetermined mass_noun     	adjective           	subjective
+the notion                                        	instance  	Intangible     	undetermined             	MODIFIERS           	NOT_VAGUE
+symmetry                                          	instance  	Intangible     	undetermined mass_noun     	MODIFIERS           	NOT_VAGUE
+example                                            	instance  	Intangible     	undetermined               	MODIFIERS            	NOT_VAGUE
+a symmetry group                                   	instance  	Intangible     	undetermined               	noun                 	NOT_VAGUE
+symmetry features                                 	class     	Intangible     	undetermined               	noun                 	NOT_VAGUE
+a geometrical object                              	class     	Intangible     	undetermined               	adjective            	NOT_VAGUE
+the group                                          	instance  	Intangible     	determined                 	MODIFIERS            	NOT_VAGUE
+the set                                          	class     	Intangible     	determined                 	MODIFIERS              	NOT_VAGUE
+transformations                                  	class     	Intangible     	undetermined               	MODIFIERS             	NOT_VAGUE
+the object                                         	instance  	Intangible     	determined                 	MODIFIERS            	NOT_VAGUE
+the operation                                   	instance   	Intangible     	determined                 	MODIFIERS              	NOT_VAGUE
+combining two such transformations              	class     	Intangible     	numbered                 	MODIFIERS             	NOT_VAGUE
+Lie groups                                         	class     	Intangible     	undetermined contains_named	MODIFIERS            	NOT_VAGUE
+the symmetry groups                                	class     	Intangible     	determined                 	noun                 	NOT_VAGUE
+the Standard Model of particle physics             	class     	CreativeWork   	determined named           	preposition          	NOT_VAGUE
+Poincaré groups                                    	class     	Intangible     	undetermined contains_named	MODIFIERS            	NOT_VAGUE
+Lie groups                                         	class     	Intangible     	undetermined contains_named	MODIFIERS            	NOT_VAGUE
+the physical symmetry                              	instance  	Intangible     	determined mass_noun       	adjective            	NOT_VAGUE
+special relativity                                 	instance  	CreativeWork   	mass_noun                  	adjective            	NOT_VAGUE
+point groups                                       	class     	Intangible     	undetermined               	noun                 	NOT_VAGUE
+symmetry phenomena                                	class     	Intangible     	undetermined               	noun                 	NOT_VAGUE
+molecular chemistry                               	class     	Intangible     	mass_noun               	adjective            	NOT_VAGUE
+The concept                                      	class     	Intangible     	determined                 	MODIFIERS             	NOT_VAGUE
+a group                                          	class     	Intangible     	undetermined               	MODIFIERS            	NOT_VAGUE
+the study                                          	instance   	Action         	determined                 	MODIFIERS             	NOT_VAGUE
+polynomial equations                              	class     	Intangible     	undetermined               	adjective             	NOT_VAGUE
+Evariste Galois                                    	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+the term                                         	instance  	CreativeWork   	determined                 	MODIFIERS            	NOT_VAGUE
+group                                            	instance   	Intangible     	undetermined               	MODIFIERS            	NOT_VAGUE
+groupe                                             	instance  	Intangible     	undetermined               	MODIFIERS            	NOT_VAGUE
+the symmetry group                               	instance   	Intangible     	determined                 	noun                 	NOT_VAGUE
+the roots                                        	class     	Intangible     	determined                 	MODIFIERS            	NOT_VAGUE
+an equation                                      	instance   	Intangible     	undetermined               	MODIFIERS            	NOT_VAGUE
+a Galois group                                     	instance  	Intangible     	undetermined contains_named	MODIFIERS            	NOT_VAGUE
+contributions                                   	class     	CreativeWork   	undetermined               	MODIFIERS             	portions
+other fields                                    	class     	CreativeWork   	undetermined               	MODIFIERS             	portions
+number theory                                      	instance  	CreativeWork   	mass_noun                  	noun                 	NOT_VAGUE
+geometry                                           	instance  	Intangible     	mass_noun                  	MODIFIERS            	NOT_VAGUE
+the group notion                                   	instance  	CreativeWork   	determined                 	noun                 	NOT_VAGUE
+Modern group theory                                	instance  	CreativeWork   	mass_noun                  	adjective noun       	NOT_VAGUE
+an active mathematical discipline                  	class     	Intangible     	undetermined               	adjective            	NOT_VAGUE
+groups                                            	class     	Intangible     	undetermined               	MODIFIERS           	NOT_VAGUE
+their own right                                   	instance   	Intangible     	qualified_anaphora         	adjective           	NOT_VAGUE
+mathematicians                                     	class     	Person         	undetermined               	MODIFIERS            	portions
+various notions                                    	class     	CreativeWork   	undetermined               	adjective            	portions
+better-understandable pieces                       	class     	Intangible     	undetermined               	adjective            	subjective
+subgroups                                          	class     	Intangible     	undetermined               	MODIFIERS            	NOT_VAGUE
+quotient groups                                    	class     	Intangible     	undetermined               	noun                 	NOT_VAGUE
+simple groups                                      	class     	Intangible     	undetermined               	adjective            	NOT_VAGUE
+addition                                           	instance  	Intangible     	mass_noun                  	MODIFIERS            	NOT_VAGUE
+their abstract properties                          	class     	Intangible     	qualified_anaphora         	adjective            	NOT_VAGUE
+group theorists                                    	class     	Person         	undetermined               	noun                 	portions
+the different ways                                 	class     	Intangible     	determined                 	adjective            	NOT_VAGUE
+a point of view                                    	instance  	Intangible     	undetermined               	preposition          	subjective
+representation theory                              	instance  	Intangible     	undetermined               	noun                  	NOT_VAGUE
+the representations                                	class     	Intangible     	determined                 	MODIFIERS             	NOT_VAGUE
+the group                                          	instance   	Intangible     	determined                 	MODIFIERS              	NOT_VAGUE
+computational group theory                         	instance  	CreativeWork   	mass_noun                  	noun adjective       	NOT_VAGUE
+A theory                                           	instance  	CreativeWork   	undetermined               	MODIFIERS            	NOT_VAGUE
+finite groups                                      	class     	Intangible     	undetermined               	adjective            	NOT_VAGUE
+the classification                               	instance   	Intangible     	determined mass_noun       	MODIFIERS             	NOT_VAGUE
+finite simple groups                             	class     	Intangible     	undetermined               	adjective            	NOT_VAGUE
+the mid-1980s                                      	class     	Event          	determined                 	adjective            	degree
+geometric group theory                             	instance  	CreativeWork   	determined                 	noun adjective       	NOT_VAGUE
+groups                                          	class     	Intangible     	undetermined               	MODIFIERS             	NOT_VAGUE
+geometric objects                               	class     	Intangible     	undetermined               	adjective            	NOT_VAGUE
+an active area                                   	instance  	Intangible     	undetermined               	adjective           	subjective
+group theory                                     	instance  	CreativeWork   	undetermined               	noun                	NOT_VAGUE

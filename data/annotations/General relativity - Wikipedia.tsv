@@ -1,0 +1,108 @@
+expression                                                            	plurality 	Yago4          	manifestation                    	modifiers            	vagueness
+General relativity                                                    	instance  	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+the general theory                                                    	instance  	CreativeWork   	determined                       	adjective           	NOT_VAGUE
+relativity                                                             	instance  	Intangible   	mass_noun                       	MODIFIERS           	NOT_VAGUE
+the geometric theory                                                   	instance  	CreativeWork   	determined                       	adjective           	NOT_VAGUE
+gravitation                                                            	instance  	Intangible   	mass_noun                       	MODIFIERS           	NOT_VAGUE
+Albert Einstein                                                       	instance  	person         	named                            	MODIFIERS            	NOT_VAGUE
+the current description                                               	instance  	CreativeWork   	determined                       	adjective           	NOT_VAGUE
+gravitation                                                           	instance  	Intangible   	mass_noun                       	MODIFIERS           	NOT_VAGUE
+modern physics                                                       	instance  	CreativeWork   	mass_noun                       	adjective           	degree
+special relativity                                                    	instance  	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+Newton's law                                                         	instance   	CreativeWork   	contains_named                     	MODIFIERS           	NOT_VAGUE
+universal gravitation                                                	instance   	CreativeWork   	mass_noun                          	adjective           	NOT_VAGUE
+a unified description                                                 	instance  	CreativeWork   	undetermined                     	adjective           	NOT_VAGUE
+gravity                                                                	instance  	intangible   	mass_noun                       	MODIFIERS           	NOT_VAGUE
+a geometric property                                                	instance  	Intangible     	undetermined                     	adjective              	NOT_VAGUE
+space and time                                                         	class   	Intangible     	mass_noun                        	MODIFIERS           	NOT_VAGUE
+four-dimensional spacetime                                            	instance  	intangible     	mass_noun                        	adjective            	NOT_VAGUE
+the curvature                                                       	instance  	intangible     	determined                       	MODIFIERS              	NOT_VAGUE
+spacetime                                                             	instance  	intangible     	mass_noun                       	MODIFIERS             	NOT_VAGUE
+the energy                                                            	instance  	intangible     	determined mass_noun             	MODIFIERS            	NOT_VAGUE
+momentum                                                              	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+matter                                                                	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+radiation                                                             	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+The relation                                                          	instance  	intangible     	determined                       	MODIFIERS            	NOT_VAGUE
+the Einstein field equations                                          	class     	CreativeWork   	determined contains_named        	noun                 	NOT_VAGUE
+a system                                                            	instance  	CreativeWork   	undetermined                     	MODIFIERS           	NOT_VAGUE
+partial differential equations                                      	class     	CreativeWork   	undetermined                     	adjective           	NOT_VAGUE
+Some predictions                                                    	class     	intangible     	numbered                         	MODIFIERS             	portions
+general relativity                                                     	instance   	CreativeWork   	mass_noun                         	MODIFIERS             	NOT_VAGUE
+classical physics                                                     	class     	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+the passage                                                            	instance  	intangible     	determined                       	MODIFIERS             	NOT_VAGUE
+time                                                                   	instance  	intangible     	mass_noun                       	MODIFIERS             	NOT_VAGUE
+the geometry                                                          	instance  	intangible     	determined                       	MODIFIERS             	NOT_VAGUE
+space                                                                  	instance  	intangible     	mass_noun                        	MODIFIERS             	NOT_VAGUE
+the motion                                                            	instance   	Action       	determined mass_noun             	MODIFIERS             	NOT_VAGUE
+bodies                                                                	class     	Product     	undetermined                     	MODIFIERS             	NOT_VAGUE
+free fall                                                             	instance  	intangible     	mass_noun                        	adjective            	NOT_VAGUE
+the propagation                                                       	instance  	Action       	determined mass_noun             	MODIFIERS             	NOT_VAGUE
+light                                                                 	instance  	intangible     	mass_noun                       	MODIFIERS             	NOT_VAGUE
+Examples                                                              	class     	intangible     	undetermined                     	MODIFIERS             	portions
+such differences                                                      	class     	intangible     	numbered                         	MODIFIERS             	portions
+gravitational time dilation                                           	instance  	intangible     	mass_noun                        	noun adjective       	NOT_VAGUE
+gravitational lensing                                                 	instance  	intangible     	mass_noun                        	adjective            	NOT_VAGUE
+the gravitational redshift                                             	instance  	intangible     	determined                       	adjective           	NOT_VAGUE
+light                                                                 	instance  	intangible     	mass_noun                        	MODIFIERS           	NOT_VAGUE
+the gravitational time delay                                          	instance  	intangible     	determined mass_noun             	noun adjective       	NOT_VAGUE
+singularities/black holes                                             	class     	intangible     	undetermined                     	MODIFIERS            	NOT_VAGUE
+The predictions                                                      	class     	CreativeWork   	determined                       	MODIFIERS             	NOT_VAGUE
+general relativity                                                  	instance   	CreativeWork   	mass_noun                       	MODIFIERS             	NOT_VAGUE
+relation                                                            	class   	intangible     	mass_noun                       	MODIFIERS             	NOT_VAGUE
+classical physics                                                   	instance   	CreativeWork   	mass_noun                       	MODIFIERS             	NOT_VAGUE
+all observations and experiments                                      	class     	Action         	numbered                         	MODIFIERS            	NOT_VAGUE
+date                                                                  	instance  	intangible     	undetermined                     	MODIFIERS            	NOT_VAGUE
+the only relativistic theory                                           	instance  	CreativeWork   	determined                       	adjective           	NOT_VAGUE
+gravity                                                                	instance  	intangible   	mass_noun                       	MODIFIERS           	NOT_VAGUE
+the simplest theory                                                   	instance  	CreativeWork   	determined                       	adjective            	subjective
+experimental data                                                     	class     	intangible     	mass_noun                        	adjective            	portions
+unanswered questions                                                  	class     	CreativeWork   	undetermined                     	adjective            	portions
+general relativity                                                    	instance  	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+the laws                                                               	class     	CreativeWork   	determined                       	MODIFIERS             	NOT_VAGUE
+quantum physics                                                        	instance   	CreativeWork   	mass_noun                       	MODIFIERS             	NOT_VAGUE
+a complete and self-consistent theory                                 	instance  	creativework   	undetermined                     	adjective           	NOT_VAGUE
+quantum gravity                                                     	instance  	creativework   	mass_noun                        	adjective           	NOT_VAGUE
+gravity                                                               	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+the three non-gravitational forces                                    	class     	intangible     	determined numbered              	adjective            	NOT_VAGUE
+strong nuclear, weak nuclear, and electromagnetic force               	class     	intangible     	undetermined                     	adjective            	NOT_VAGUE
+Einstein's theory                                                     	instance  	creativework   	contains_named                  	MODIFIERS            	NOT_VAGUE
+important astrophysical implications                                  	class     	intangible     	undetermined                     	adjective            	subjective
+the existence                                                        	instance  	intangible     	determined                       	MODIFIERS             	NOT_VAGUE
+black holes—regions                                                  	instance  	Place        	undetermined                     	MODIFIERS             	NOT_VAGUE
+space                                                                	instance  	intangible     	mass_noun                        	MODIFIERS             	NOT_VAGUE
+space                                                                 	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+time                                                                  	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+nothing                                                               	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+light                                                                 	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+an end-state                                                        	instance  	intangible     	undetermined                     	MODIFIERS             	NOT_VAGUE
+massive stars                                                        	instance  	Product     	undetermined                     	adjective             	degree
+ample evidence                                                       	class     	intangible     	mass_noun                        	adjective           	degree portions
+the intense radiation                                                	class     	intangible     	mass_noun                        	adjective           	degree
+certain kinds                                                        	class     	Intangible     	numbered                         	MODIFIERS           	portions
+astronomical objects                                                 	class     	Product        	undetermined                     	adjective           	portions
+black holes                                                           	class     	intangible     	undetermined                     	adjective            	NOT_VAGUE
+microquasars                                                          	instance  	Product        	undetermined                     	MODIFIERS            	NOT_VAGUE
+active galactic nuclei                                                	instance  	Product        	undetermined                     	adjective            	NOT_VAGUE
+the presence                                                          	instance  	intangible     	determined                       	MODIFIERS             	NOT_VAGUE
+stellar black holes and supermassive black holes                    	class     	Product      	undetermined                       	MODIFIERS             	NOT_VAGUE
+The bending                                                            	instance  	intangible     	determined mass_noun               	MODIFIERS             	NOT_VAGUE
+light                                                                  	instance  	intangible     	mass_noun                       	MODIFIERS             	NOT_VAGUE
+gravity                                                                	instance  	intangible     	mass_noun                       	MODIFIERS             	NOT_VAGUE
+the phenomenon                                                         	instance  	intangible     	determined                       	MODIFIERS             	NOT_VAGUE
+gravitational lensing                                                 	instance  	intangible     	mass_noun                       	MODIFIERS             	NOT_VAGUE
+multiple images                                                        	class     	intangible     	numbered                         	MODIFIERS             	portions
+the same distant astronomical object                                 	class     	intangible     	determined                         	adjective             	degree
+the sky                                                               	instance  	intangible     	determined mass_noun             	MODIFIERS            	NOT_VAGUE
+general relativity                                                    	instance  	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+the existence                                                         	instance  	intangible     	determined                       	MODIFIERS              	NOT_VAGUE
+gravitational waves                                                  	instance  	Product      	undetermined                       	MODIFIERS              	NOT_VAGUE
+the physics collaboration LIGO                                        	instance  	Organization   	determined named                 	noun                 	NOT_VAGUE
+general relativity                                                    	instance  	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+the basis                                                             	class     	Intangible   	determined                       	MODIFIERS             	NOT_VAGUE
+current cosmological models                                         	class     	CreativeWork   	undetermined                       	MODIFIERS             	NOT_VAGUE
+a consistently expanding universe                                     	instance  	intangible     	undetermined                     	adjective            	NOT_VAGUE
+a theory                                                            	instance  	creativework   	undetermined                     	MODIFIERS             	NOT_VAGUE
+extraordinary beauty                                                  	instance  	Intangible   	undetermined                     	adjective             	subjective
+general relativity                                                    	instance  	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+the most beautiful                                                    	instance  	creativework   	determined                       	adjective           	subjective
+all existing physical theories                                       	class     	creativework   	determined                       	adjective           	NOT_VAGUE

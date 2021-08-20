@@ -1,0 +1,111 @@
+expression                                        	plurality 	Yago4          	manifestation                                       	modifiers            	vagueness
+Nelson Rolihlahla Mandela                         	instance  	PERSON         	named                                               	MODIFIERS            	NOT_VAGUE
+a South African anti-apartheid revolutionary      	instance  	PERSON         	undetermined                                        	adjective            	NOT_VAGUE
+political leader                                  	instance  	PERSON         	undetermined                                        	adjective            	NOT_VAGUE
+philanthropist                                    	instance  	PERSON         	undetermined                                        	MODIFIERS            	subjective
+President of South Africa                         	instance  	PERSON         	named                                               	preposition          	NOT_VAGUE
+the country's first black head of state           	instance  	PERSON         	determined                                          	adjective preposition	NOT_VAGUE
+a fully representative democratic election        	instance  	Event          	undetermined                                        	adjective            	NOT_VAGUE
+His government                                    	instance  	Organization   	qualified_anaphora mass_noun                        	MODIFIERS            	NOT_VAGUE
+the legacy                                         	instance  	Intangible     	determined                                          	MODIFIERS           	NOT_VAGUE
+apartheid                                         	instance  	intangible     	mass_noun                                           	MODIFIERS            	NOT_VAGUE
+institutionalised racism                          	instance  	Intangible     	determined mass_noun                                	adjective           	NOT_VAGUE
+racial reconciliation                             	instance  	Intangible     	mass_noun                                           	adjective            	subjective
+an African nationalist                            	instance  	PERSON         	undetermined                                        	adjective            	NOT_VAGUE
+socialist                                         	instance  	PERSON         	undetermined                                        	MODIFIERS            	subjective
+the president                                   	instance  	PERSON         	determined                                             	MODIFIERS             	NOT_VAGUE
+the African National Congress                   	instance  	Organization   	determined named                                       	MODIFIERS             	NOT_VAGUE
+ANC                                               	instance  	Organization   	named                                               	MODIFIERS            	NOT_VAGUE
+A Xhosa speaker                                   	instance  	PERSON         	undetermined contains_named                         	MODIFIERS            	NOT_VAGUE
+Mandela                                           	instance  	PERSON         	undetermined                                        	MODIFIERS            	NOT_VAGUE
+the Thembu royal family                           	instance  	PERSON         	determined contains_named                           	MODIFIERS            	NOT_VAGUE
+Mvezo                                             	instance  	Place        	named                                               	MODIFIERS             	NOT_VAGUE
+Union of South Africa                             	instance  	Organization   	named                                               	preposition          	NOT_VAGUE
+law                                               	instance  	Intangible     	mass_noun                                           	MODIFIERS             	NOT_VAGUE
+the University of Fort Hare                       	instance  	Organization   	determined named                                    	preposition          	NOT_VAGUE
+the University of Witwatersrand                   	instance  	Organization   	determined named                                    	preposition          	NOT_VAGUE
+a lawyer                                          	instance  	PERSON         	undetermined                                        	MODIFIERS             	NOT_VAGUE
+Johannesburg                                      	instance  	Place        	named                                               	MODIFIERS             	NOT_VAGUE
+anti-colonial and African nationalist politics    	class     	Intangible     	undetermined                                        	adjective noun       	NOT_VAGUE
+the ANC                                           	instance  	organization   	determined named                                    	MODIFIERS            	NOT_VAGUE
+its Youth League                                  	instance  	organization   	qualified_anaphora named                            	MODIFIERS            	NOT_VAGUE
+the National Party's white-only government        	instance  	organization   	determined contains_named mass_noun                 	adjective            	NOT_VAGUE
+apartheid                                         	instance  	intangible     	mass_noun                                           	MODIFIERS            	NOT_VAGUE
+a system                                        	instance  	intangible     	undetermined                                        	MODIFIERS              	NOT_VAGUE
+racial segregation                              	instance  	intangible     	mass_noun                                           	adjective           	NOT_VAGUE
+whites                                            	class     	person         	undetermined                                        	MODIFIERS            	NOT_VAGUE
+its overthrow                                     	instance  	Event          	qualified_anaphora                                  	MODIFIERS            	NOT_VAGUE
+president                                          	instance  	person         	undetermined                                          	MODIFIERS             	NOT_VAGUE
+the ANC's Transvaal branch                         	instance  	Organization   	named                                                  	MODIFIERS             	NOT_VAGUE
+prominence                                        	instance  	intangible     	undetermined                                        	MODIFIERS             	subjective
+his involvement                                  	instance  	Action         	qualified_anaphora mass_noun                        	MODIFIERS             	NOT_VAGUE
+the 1952 Defiance Campaign                       	instance  	Event         	numbered named                                      	MODIFIERS             	NOT_VAGUE
+the 1955 Congress of the People                   	class     	organization   	determined numbered named                           	preposition          	NOT_VAGUE
+seditious activities                              	class     	action         	undetermined                                        	adjective            	portions subjective
+the 1956 Treason Trial                            	instance  	event          	determined numbered named                           	MODIFIERS            	NOT_VAGUE
+Marxism                                           	instance  	intangible     	mass_noun                                           	MODIFIERS            	NOT_VAGUE
+the banned South African Communist Party          	instance  	organization   	determined named                                    	adjective            	NOT_VAGUE
+SACP                                              	instance  	organization   	named                                               	MODIFIERS            	NOT_VAGUE
+non-violent protest                               	instance  	action         	mass_noun                                           	adjective            	NOT_VAGUE
+association                                      	instance  	intangible     	mass_noun                                              	MODIFIERS             	NOT_VAGUE
+the SACP                                          	instance  	Organization   	named                                               	MODIFIERS             	NOT_VAGUE
+the militant Umkhonto                             	instance  	organization   	determined named                                    	MODIFIERS            	degree
+a sabotage campaign                             	instance  	event          	undetermined                                        	adjective             	NOT_VAGUE
+the government                                  	instance  	Organization   	determined                                          	MODIFIERS             	NOT_VAGUE
+life imprisonment                                 	instance  	intangible     	mass_noun                                           	noun                 	NOT_VAGUE
+the state                                         	instance  	organization   	determined named                                    	MODIFIERS            	NOT_VAGUE
+the Rivonia Trial                                 	instance  	event          	determined named                                    	MODIFIERS            	NOT_VAGUE
+27 years                                           	class     	Event        	numbered                                            	MODIFIERS             	NOT_VAGUE
+prison                                            	class     	Place        	undetermined                                          	MODIFIERS             	NOT_VAGUE
+Robben Island                                     	instance  	Place        	named                                               	MODIFIERS            	NOT_VAGUE
+Pollsmoor Prison                                  	instance  	Place        	named                                               	MODIFIERS            	NOT_VAGUE
+Victor Verster Prison                             	instance  	Place        	named                                               	MODIFIERS            	NOT_VAGUE
+international pressure                            	instance  	intangible     	mass_noun                                           	adjective            	subjective
+fears                                              	class     	Intangible     	undetermined                                        	MODIFIERS           	subjective
+a racial civil war                              	class     	event          	undetermined                                        	MODIFIERS           	NOT_VAGUE
+President F W de Klerk                            	instance  	person         	named                                               	MODIFIERS            	NOT_VAGUE
+efforts                                           	class     	action         	undetermined                                        	MODIFIERS            	portions
+an end                                            	instance  	event          	undetermined                                        	MODIFIERS            	NOT_VAGUE
+the 1994 multiracial general election             	instance  	event          	determined numbered mass_noun                       	adjective            	NOT_VAGUE
+victory                                           	instance  	intangible     	mass_noun                                           	MODIFIERS            	NOT_VAGUE
+president                                         	instance  	person         	undetermined                                        	MODIFIERS            	NOT_VAGUE
+a broad coalition government                      	instance  	organization   	undetermined                                        	adjective noun       	degree
+a new constitution                                	instance  	creativework   	undetermined                                        	adjective            	NOT_VAGUE
+reconciliation                                  	instance  	intangible     	mass_noun                                           	MODIFIERS             	subjective
+the country's racial groups                     	instance  	Organization   	determined                                           	adjective             	NOT_VAGUE
+the Truth and Reconciliation Commission           	instance  	organization   	determined named                                    	MODIFIERS            	NOT_VAGUE
+past human rights abuses                          	class     	event          	undetermined                                        	adjective noun       	degree portions
+Mandela's administration                          	instance  	organization   	contains_named mass_noun                            	MODIFIERS            	NOT_VAGUE
+its predecessor's liberal framework               	class     	creativework   	qualified_anaphora                                  	adjective           	NOT_VAGUE
+his own socialist beliefs                         	class     	intangible     	qualified_anaphora                                  	adjective           	subjective
+measures                                          	class     	intangible     	undetermined                                        	MODIFIERS            	portions
+land reform                                       	instance  	event          	mass_noun                                           	noun                 	NOT_VAGUE
+poverty                                           	instance  	intangible     	mass_noun                                           	MODIFIERS            	degree
+healthcare services                               	class     	organization   	undetermined                                        	noun                 	portions
+mediator                                          	instance  	person         	undetermined                                        	MODIFIERS             	NOT_VAGUE
+the Pan Am Flight 103 bombing trial               	instance  	event          	determined numbered                                 	MODIFIERS            	NOT_VAGUE
+the Non-Aligned Movement                          	instance  	organization   	determined named                                    	adjective            	NOT_VAGUE
+a second presidential term                        	instance  	event          	undetermined                                        	adjective            	NOT_VAGUE
+his deputy Thabo Mbeki                            	instance  	person         	named                                               	MODIFIERS            	NOT_VAGUE
+an elder statesman                                	instance  	person         	undetermined                                        	noun                 	degree
+poverty                                           	instance  	intangible     	mass_noun                                           	MODIFIERS            	degree
+HIV/AIDS                                          	instance  	Taxon          	named                                               	MODIFIERS            	NOT_VAGUE
+the charitable Nelson Mandela Foundation          	instance  	organization   	determined named                                    	adjective           	NOT_VAGUE
+a controversial figure                            	instance  	person         	undetermined                                        	adjective            	subjective
+his life                                          	instance  	intangible     	qualified_anaphora mass_noun                        	MODIFIERS            	NOT_VAGUE
+critics                                           	class     	CreativeWork   	undetermined                                        	MODIFIERS             	subjective
+the right                                         	instance   	Organization   	determined                                          	MODIFIERS             	subjective
+a communist terrorist                             	instance  	person         	undetermined                                        	adjective            	subjective
+apartheid's supporters                            	class     	person         	determined                                          	MODIFIERS            	portions degree
+international acclaim                           	instance  	intangible     	mass_noun                                            	adjective           	subjective
+his activism                                    	instance  	Action       	qualified_anaphora mass_noun                        	adjective           	subjective
+an icon                                           	instance  	person         	undetermined                                        	MODIFIERS             	subjective
+democracy                                          	instance  	Intangible     	mass_noun                                           	MODIFIERS             	NOT_VAGUE
+social justice                                    	instance  	intangible     	mass_noun                                           	adjective            	subjective
+250 honours                                       	class     	intangible     	numbered                                            	MODIFIERS            	NOT_VAGUE
+the Nobel Peace Prize                             	instance  	intangible     	determined named                                    	MODIFIERS            	NOT_VAGUE
+deep respect                                      	instance  	intangible     	undetermined                                        	adjective           	degree subjective
+South Africa                                      	instance  	Place        	named                                               	adjective           	NOT_VAGUE
+his Thembu clan name                              	instance  	creativework   	qualified_anaphora contains_named                   	MODIFIERS            	NOT_VAGUE
+Madiba                                            	instance  	person         	named                                               	MODIFIERS            	NOT_VAGUE
+the Father of the Nation                          	instance  	person         	determined named                                    	preposition          	NOT_VAGUE

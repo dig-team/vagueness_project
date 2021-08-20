@@ -1,0 +1,91 @@
+expression                                                                    	plurality 	Yago4          	manifestation                     	modifiers                 	vagueness
+Political Animals and Animal Politics                                         	instance  	CreativeWork   	named                             	MODIFIERS                 	NOT_VAGUE
+a 2014 edited collection                                                      	class     	CreativeWork   	undetermined                      	adjective                 	NOT_VAGUE
+Palgrave Macmillan                                                            	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+the green political theorists Marcel Wissenburg and David Schlosberg          	class     	Person         	determined named                  	adjective noun            	NOT_VAGUE
+The work                                                                      	instance  	CreativeWork   	determined anaphora               	MODIFIERS                 	NOT_VAGUE
+the emergence                                                                 	instance  	Intangible     	determined                        	MODIFIERS               	subjective
+academic animal ethics                                                         	class     	Intangible     	undetermined                       	adjective noun          	subjective portions
+political philosophy                                                          	instance  	CreativeWork   	mass_noun                         	adjective                 	NOT_VAGUE
+moral philosophy                                                              	instance  	CreativeWork   	mass_noun                         	adjective                 	NOT_VAGUE
+the first edited collection                                                   	class     	CreativeWork   	determined                        	adjective                 	NOT_VAGUE
+the topic                                                                     	instance  	Intangible     	determined anaphora               	MODIFIERS                 	NOT_VAGUE
+the first book-length attempt                                                 	instance  	CreativeWork   	determined                        	adjective                 	degree
+the breadth and boundaries                                                    	class     	Intangible     	determined                        	MODIFIERS               	subjective
+the literature                                                               	instance   	CreativeWork   	determined                        	MODIFIERS               	NOT_VAGUE
+a substantial introduction                                                   	instance   	CreativeWork   	undetermined                      	adjective                	subjective
+the editors                                                                   	class     	Person         	determined                      	MODIFIERS                	NOT_VAGUE
+ten sole-authored chapters                                                    	class     	CreativeWork   	undetermined numbered             	adjective                 	NOT_VAGUE
+three parts                                                                   	class     	CreativeWork   	numbered                          	MODIFIERS                 	NOT_VAGUE
+institutional change                                                          	class     	Action         	mass_noun                         	adjective                	subjective
+animals                                                                       	class     	Taxon         	undetermined                       	MODIFIERS                	portions
+the relationship                                                              	instance   	Intangible     	determined mass_noun              	MODIFIERS                  	subjective
+animal ethics and ecologism                                                  	class     	Intangible     	undetermined                      	noun                       	NOT_VAGUE
+real-world laws                                                               	class     	CreativeWork   	undetermined                      	MODIFIERS                 	portions
+the benefit                                                                 	instance   	Intangible     	determined                        	MODIFIERS               	subjective
+animals                                                                        	class     	Taxon        	undetermined                       	MODIFIERS               	portions
+The book's contributors                                                       	class     	Person         	determined anaphora               	MODIFIERS                 	NOT_VAGUE
+Wissenburg                                                                    	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Schlosberg                                                                    	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Manuel Arias-Maldonado                                                        	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Chad Flanders                                                                 	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Christie Smith                                                                	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Clemens Driessen                                                              	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Simon Otjes                                                                   	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Kurtis Boyer                                                                  	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Per-Anders Svärd                                                              	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Mihnea Tanasescu                                                              	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+The focus                                                                   	class     	Intangible   	determined                       	MODIFIERS                	NOT_VAGUE
+their individual chapters                                                     	class     	CreativeWork   	determined qualified_anaphora     	adjective                	NOT_VAGUE
+recurring features                                                            	class     	CreativeWork   	undetermined                      	MODIFIERS                 	portions
+discussions                                                                    	class     	CreativeWork   	undetermined                      	MODIFIERS               	portions
+human exceptionalism                                                         	instance  	CreativeWork   	undetermined                      	noun                    	NOT_VAGUE
+exploration                                                                   	class     	CreativeWork   	mass_noun                         	MODIFIERS               	subjective
+ways                                                                          	class     	CreativeWork   	undetermined                       	MODIFIERS               	portions 
+reflections                                                                    	class     	CreativeWork   	undetermined                      	MODIFIERS               	subjective portions
+the relationship                                                               	instance   	Intangible   	determined                      	MODIFIERS               	NOT_VAGUE
+theory and practice                                                            	class     	CreativeWork   	undetermined                      	MODIFIERS               	NOT_VAGUE
+politics                                                                      	class     	CreativeWork   	mass_noun                        	MODIFIERS               	NOT_VAGUE
+Political Animals and Animal Politics                                         	instance  	CreativeWork   	named                             	MODIFIERS                 	NOT_VAGUE
+a workshop                                                                    	instance  	Event          	undetermined                      	MODIFIERS                 	NOT_VAGUE
+Wissenburg                                                                    	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Schlosberg                                                                    	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+the 2012 European Consortium for Political Research Joint Sessions conference 	instance  	Event          	determined named                  	adjective preposition     	NOT_VAGUE
+all attendees                                                                 	class     	Person         	undetermined                      	MODIFIERS                 	NOT_VAGUE
+the volume                                                                    	instance  	CreativeWork   	determined anaphora               	MODIFIERS                 	NOT_VAGUE
+all contributors                                                              	class     	Person         	anaphora                          	MODIFIERS                 	NOT_VAGUE
+the workshop                                                                  	instance  	Event          	determined                        	MODIFIERS                 	NOT_VAGUE
+Footage                                                                       	instance  	CreativeWork   	mass_noun                        	MODIFIERS               	NOT_VAGUE
+the workshop                                                                  	instance  	CreativeWork   	determined                      	MODIFIERS               	NOT_VAGUE
+De Haas in de Marathon                                                        	instance  	CreativeWork   	named                             	MODIFIERS                 	NOT_VAGUE
+a 2012 documentary                                                            	instance   	CreativeWork   	undetermined                       	MODIFIERS               	NOT_VAGUE
+the Dutch Party for the Animals                                               	instance   	Organization   	determined named                	preposition               	NOT_VAGUE
+Political Animals and Animal Politics                                         	instance  	CreativeWork   	named                             	MODIFIERS                 	NOT_VAGUE
+the Palgrave Macmillan Animal Ethics Series                                   	class     	CreativeWork   	determined named                  	MODIFIERS                 	NOT_VAGUE
+Andrew Linzey                                                                 	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Priscilla Cohn                                                                	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Reviewers                                                                     	class     	Person         	undetermined                      	MODIFIERS                 	portions
+the contributions                                                              	class     	CreativeWork   	determined                      	MODIFIERS               	NOT_VAGUE
+Driessen, Flanders and Boyer                                                  	class     	Person         	named                           	MODIFIERS               	NOT_VAGUE
+the inclusion                                                                	instance 	Action         	determined                        	MODIFIERS               	NOT_VAGUE
+chapters                                                                     	class     	CreativeWork   	determined                        	MODIFIERS               	portions
+the environment                                                               	instance  	Intangible     	determined                        	MODIFIERS                 	NOT_VAGUE
+the book's failure                                                            	instance  	Intangible     	determined                        	MODIFIERS                 	subjective
+the key voices                                                                	class     	Person         	determined                        	noun                    	NOT_VAGUE
+the politically focused animal ethics literature                              	class     	CreativeWork   	determined                        	adjective noun          	subjective
+Robert Garner                                                                 	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Sue Donaldson                                                                 	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Will Kymlicka                                                                 	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Alasdair Cochrane                                                             	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Kimberly Smith                                                                	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Siobhan O'Sullivan                                                            	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Wissenburg's chapter                                                          	instance  	CreativeWork   	named                             	MODIFIERS                 	NOT_VAGUE
+the one                                                                       	instance  	CreativeWork   	determined anaphora               	MODIFIERS                 	NOT_VAGUE
+this literature                                                               	instance  	CreativeWork   	qualified_anaphora                	MODIFIERS                 	NOT_VAGUE
+his approach                                                                  	instance  	CreativeWork   	qualified_anaphora                	MODIFIERS                 	NOT_VAGUE
+a negative one                                                                	instance  	CreativeWork   	undetermined anaphora             	adjective                 	subjective
+Garner                                                                        	instance  	Person         	named                             	MODIFIERS                 	NOT_VAGUE
+Political Animals and Animal Politics                                         	instance  	CreativeWork   	named                             	MODIFIERS                 	NOT_VAGUE
+its trailblazing                                                              	instance  	intangible     	qualified_anaphora                	modifiers                 	subjective
+stronger collections                                                        	class     	CreativeWork   	undetermined                      	adjective                	subjective portions
+the same theme                                                                	instance   	Intangible   	determined                      	adjective                	NOT_VAGUE

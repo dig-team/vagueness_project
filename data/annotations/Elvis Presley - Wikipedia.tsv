@@ -1,0 +1,108 @@
+expression                                                                     	plurality 	Yago4          	manifestation                    	modifiers                 	vagueness
+Elvis Aaron Presley                                                            	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+Elvis                                                                          	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+an American singer, musician and actor                                         	instance  	Person         	undetermined contains_named      	adjective                 	NOT_VAGUE
+one of the most significant cultural icons                                   	instance  	Person         	numbered                         	adjective                	subjective
+the 20th century                                                             	instance  	Event         	determined                         	MODIFIERS                	NOT_VAGUE
+the King of Rock and Roll                                                      	instance  	Person         	determined named                 	preposition               	NOT_VAGUE
+the King                                                                       	instance  	Person         	determined named                 	MODIFIERS                 	NOT_VAGUE
+His energized interpretations                                                	class     	CreativeWork   	qualified_anaphora               	adjective                	subjective
+songs                                                                        	class     	CreativeWork   	undetermined                       	MODIFIERS                	NOT_VAGUE
+sexually provocative performance style                                         	instance  	CreativeWork   	mass_noun                        	noun adjective            	subjective
+a singularly potent mix                                                        	instance  	Intangible     	undetermined                     	adjective                	subjective
+influences                                                                     	class     	Intangible     	undetermined                     	MODIFIERS                	portions
+color lines                                                                    	class     	Intangible     	undetermined                     	adjective                	portions
+a transformative era                                                         	instance  	Event          	undetermined                     	adjective                	subjective
+race relations                                                               	class     	Intangible     	undetermined                     	noun                     	subjective portions
+great success                                                                  	instance  	Intangible     	mass_noun                        	adjective                 	subjective
+initial controversy                                                            	instance  	Action         	mass_noun                        	adjective                 	subjective
+Presley                                                                        	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+Tupelo, Mississippi                                                            	instance  	Place        	named                            	MODIFIERS                 	NOT_VAGUE
+Memphis, Tennessee                                                             	instance  	Place        	named                            	MODIFIERS                 	NOT_VAGUE
+his family                                                                     	instance  	Person         	qualified_anaphora               	MODIFIERS                 	NOT_VAGUE
+His music career                                                               	instance  	Intangible     	qualified_anaphora               	noun                      	NOT_VAGUE
+Sun Records                                                                    	instance  	Organization   	named                            	MODIFIERS                 	NOT_VAGUE
+producer Sam Phillips                                                          	instance  	Person         	named                            	noun                      	NOT_VAGUE
+the sound                                                                   	instance  	CreativeWork  	determined                       	MODIFIERS                	subjective
+African-American music                                                      	instance  	Intangible     	undetermined mass_noun             	adjective                	NOT_VAGUE
+a wider audience                                                               	instance  	Person         	undetermined                     	adjective                 	degree
+Presley                                                                        	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+rhythm acoustic guitar                                                         	instance  	Product        	undetermined                     	noun                      	NOT_VAGUE
+lead guitarist Scotty Moore                                                    	instance  	Person         	named                            	adjective noun            	NOT_VAGUE
+bassist Bill Black                                                             	instance  	Person         	named                            	noun                      	NOT_VAGUE
+a pioneer                                                                      	instance  	Person         	undetermined                     	MODIFIERS               	subjective
+rockability                                                                    	instance  	CreativeWork   	undetermined                     	MODIFIERS               	NOT_VAGUE
+an utempo, backbeat-driven fusion                                           	instance  	CreativeWork   	undetermined mass_noun           	adjective                	NOT_VAGUE
+country music and rhythm and blues                                          	class   	CreativeWork   	undetermined mass_noun           	adjective                	NOT_VAGUE
+drummer D.J. Fontana                                                           	instance  	Person         	named                            	noun                      	NOT_VAGUE
+the lineup                                                                  	instance  	Person         	determined                      	MODIFIERS               	NOT_VAGUE
+Presley's classic quartet                                                   	instance  	Person         	determined                      	adjective               	NOT_VAGUE
+RCA Victor                                                                     	instance  	Organization   	named                            	MODIFIERS                 	NOT_VAGUE
+his contract                                                                   	instance  	CreativeWork   	qualified_anaphora               	MODIFIERS               	NOT_VAGUE
+a deal                                                                         	instance  	CreativeWork   	undetermined                     	modifiers                 	NOT_VAGUE
+Colonel Tom Parker                                                             	instance  	Person         	named                            	noun                      	NOT_VAGUE
+two decades                                                                    	class     	Event          	numbered                         	MODIFIERS                 	NOT_VAGUE
+Presley's first RCA single                                                     	instance  	CreativeWork   	determined contains_named          	adjective                 	NOT_VAGUE
+"Heartbreak Hotel"                                                             	instance  	CreativeWork   	named                            	MODIFIERS                 	NOT_VAGUE
+a number-one hit                                                              	instance  	CreativeWork   	undetermined                     	noun adjective          	NOT_VAGUE
+the United States                                                             	instance  	Organization   	determined named                   	MODIFIERS               	NOT_VAGUE
+a series of successful network television appearances and chart-topping records	class     	CreativeWork   	undetermined                     	preposition               	subjective portions
+the leading figure                                                            	instance  	Person         	determined                       	adjective                	NOT_VAGUE
+the newly popular sound                                                       	instance  	CreativeWork   	determined                       	adjective                	NOT_VAGUE
+rock                                                                          	instance  	Person         	mass_noun                       	MODIFIERS                	NOT_VAGUE
+Presley                                                                        	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+his film debut                                                                 	instance  	Event          	qualified_anaphora               	noun                      	NOT_VAGUE
+Love Me Tender                                                                 	instance  	CreativeWork   	named                            	modifiers                 	NOT_VAGUE
+military service                                                               	instance  	Event          	mass_noun                        	noun                      	NOT_VAGUE
+Presley                                                                        	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+his recording career                                                           	class     	Intangible     	qualified_anaphora               	noun                      	NOT_VAGUE
+some of his most commercially successful work                                  	class     	CreativeWork   	numbered qualified_anaphora      	noun                      	degree portions
+few concerts                                                                   	class     	CreativeWork   	numbered                         	MODIFIERS                 	portions
+Parker                                                                         	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+much of the 1960s                                                              	class     	Event          	numbered                         	MODIFIERS                 	degree portions
+Hollywood films                                                                	class     	CreativeWork   	undetermined contains_named      	MODIFIERS                 	portions
+soundtrack albums                                                              	class     	CreativeWork   	undetermined contains_named      	MODIFIERS                 	portions
+a seven-year break                                                            	instance  	Event          	undetermined                     	adjective                	NOT_VAGUE
+live performances                                                             	instance  	Event          	undetermined                     	adjective                	NOT_VAGUE
+the stage                                                                      	instance  	Place        	determined mass_noun             	modifiers                 	NOT_VAGUE
+the acclaimed television comeback special Elvis                                	instance  	CreativeWork   	determined                       	noun adjective            	NOT_VAGUE
+an extended Las Vegas concert residency                                        	instance  	Event          	undetermined contains_named      	adjective                 	degree
+a string                                                                    	instance  	Intangible     	undetermined                     	MODIFIERS               	NOT_VAGUE
+highly profitable tours                                                     	class     	Event          	undetermined                     	adjective               	degree portions
+the first concert                                                            	instance  	Event          	determined                       	adjective                	NOT_VAGUE
+a solo artist                                                                	instance  	Person         	determined                       	adjective                	NOT_VAGUE
+the world                                                                      	instance  	Place        	determined                       	MODIFIERS                 	NOT_VAGUE
+Aloha from Hawaii                                                              	instance  	CreativeWork   	named                            	preposition               	NOT_VAGUE
+Years                                                                          	class     	Event          	undetermined                     	MODIFIERS               	portions
+prescription drug abuse                                                        	class     	Action        	mass_noun                        	noun                       	degree portions
+his health                                                                     	instance  	Intangible     	qualified_anaphora               	MODIFIERS                 	subjective
+his Graceland estate                                                           	instance  	Place        	qualified_anaphora               	noun                      	NOT_VAGUE
+the age of 42                                                                  	instance  	intangible     	determined                       	preposition               	NOT_VAGUE
+his rise                                                                      	instance  	Event          	qualified_anaphora               	MODIFIERS               	degree
+poverty                                                                       	instance  	Intangible     	mass_noun                          	MODIFIERS               	subjective
+significant fame                                                              	instance  	Intangible     	mass_noun                          	adjective               	degree subjective
+Presley's success                                                              	instance  	Intangible     	contains_named                  	MODIFIERS                 	NOT_VAGUE
+the American Dream                                                             	instance  	CreativeWork   	determined named                 	adjective                 	NOT_VAGUE
+the best-selling solo music artist                                           	instance  	Person         	determined                       	adjective noun           	NOT_VAGUE
+all time                                                                     	instance  	Event         	determined                       	MODIFIERS                	NOT_VAGUE
+many genres                                                                    	class     	CreativeWork   	numbered                         	MODIFIERS                 	portions
+pop                                                                            	instance  	CreativeWork   	named                            	MODIFIERS                 	NOT_VAGUE
+country                                                                        	instance  	CreativeWork   	named                            	MODIFIERS                 	NOT_VAGUE
+R&B                                                                            	instance  	CreativeWork   	named                            	MODIFIERS                 	NOT_VAGUE
+adult contemporary                                                             	instance  	CreativeWork   	named                            	noun                      	NOT_VAGUE
+gospel                                                                         	instance  	CreativeWork   	named                            	MODIFIERS                 	NOT_VAGUE
+three Grammy Awards                                                            	class     	CreativeWork   	numbered named                   	MODIFIERS                 	NOT_VAGUE
+the Grammy Lifetime Achievement Award                                          	instance  	CreativeWork   	determined named                 	preposition               	NOT_VAGUE
+age 36                                                                         	instance  	intangible     	undetermined mass_noun           	modifiers                 	NOT_VAGUE
+multiple music halls of fame                                                   	class     	Organization   	numbered                         	adjective preposition     	portions
+several records                                                                	class     	Intangible     	numbered                         	MODIFIERS                 	portions
+the most RIAA certified gold and platinum albums                               	class   	CreativeWork   	determined contains_named        	adjective                 	NOT_VAGUE
+albums                                                                         	class     	CreativeWork   	undetermined                     	modifiers                 	portions
+the Billboard 200                                                              	instance  	Organization   	determined named                 	MODIFIERS                 	NOT_VAGUE
+the most number-one albums                                                   	class     	CreativeWork   	determined                       	adjective noun           	NOT_VAGUE
+a solo artist                                                                	instance  	Person       	undetermined                       	adjective                	NOT_VAGUE
+the UK Albums Chart                                                          	instance   	Organization   	determined                       	MODIFIERS                	NOT_VAGUE
+the most number-one singles                                                  	class     	CreativeWork   	determined                       	adjective noun           	NOT_VAGUE
+any act                                                                      	class     	Person       	numbered                           	MODIFIERS                	NOT_VAGUE
+the UK Singles Chart                                                           	instance  	Organization   	determined                       	MODIFIERS                	NOT_VAGUE
+the Presidential Medal of Freedom                                              	instance  	CreativeWork   	determined named                 	preposition               	NOT_VAGUE

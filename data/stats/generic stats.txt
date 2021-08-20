@@ -1,0 +1,28 @@
+# of NPs: 2457
+# of vague NPs: 639 (26.01%)
+# of vagueness_degree NPs: 148 (6.03%)
+# of vagueness_portions NPs: 340 (13.84%)
+# of vagueness_subjective NPs: 230 (9.37%)
+# of instance NPs: 1709 (69.56%)
+# of class NPs: 748 (30.45%)
+total # of manifestation_named: 523     # of vague:     9       1.73%
+
+total # of manifestation_undetermined:  737     # of vague:     338     45.87%
+
+total # of manifestation_determined:    783     # of vague:     104     13.29%
+
+total # of manifestation_numbered:      143     # of vague:     74      51.75%
+
+total # of manifestation_anaphora:      91      # of vague:     5       5.5%
+
+total # of manifestation_qualified_anaphora:    128     # of vague:     28      21.88%
+
+total # of manifestation_mass_noun:     397     # of vague:     115     28.97%
+
+total # of manifestation_contains_named:        126     # of vague:     23      18.26%
+
+total # of modifiers_adjective: 735     # of vague:     332     45.18%
+
+total # of modifiers_preposition:       81      # of vague:     22      27.17%
+
+total # of modifiers_noun:      232     # of vague:     74      31.9%

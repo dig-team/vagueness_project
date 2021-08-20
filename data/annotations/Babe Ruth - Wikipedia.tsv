@@ -1,0 +1,112 @@
+expression                                                        	plurality 	Yago4          	manifestation                    	modifiers                 	vagueness
+George Herman Babe Ruth Jr.                                       	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+an American professional baseball player                          	instance  	Person         	undetermined contains_named      	adjective noun            	NOT_VAGUE
+career                                                          	instance  	Intangible     	undetermined                       	MODIFIERS               	NOT_VAGUE
+Major League Baseball                                             	instance  	Organization   	named                            	MODIFIERS               	NOT_VAGUE
+22 seasons                                                        	class     	Event          	numbered                         	MODIFIERS                 	NOT_VAGUE
+The Bambino                                                       	instance  	Person         	determined named                 	MODIFIERS                 	NOT_VAGUE
+The Sultan of Swat                                                	instance  	Person         	determined named                 	preposition               	NOT_VAGUE
+his MLB career                                                    	instance  	Intangible     	qualified_anaphora contains_named	MODIFIERS                 	NOT_VAGUE
+a star left-handed pitcher                                      	instance  	Person         	undetermined                    	adjective                	NOT_VAGUE
+the Boston Red Sox                                              	instance  	Organization   	determined named                	MODIFIERS               	NOT_VAGUE
+his greatest fame                                                 	instance  	Intangible     	qualified_anaphora               	adjective                 	subjective
+a slugging outfielder                                           	instance  	Person         	undetermined                     	adjective               	subjective
+the New York Yankees                                            	instance  	Organization   	determined named                	MODIFIERS               	NOT_VAGUE
+Ruth                                                              	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+many MLB batting records                                          	class     	Event          	numbered contains_named          	adjective                 	portions
+career home runs                                                  	class     	Action         	undetermined                     	noun                      	NOT_VAGUE
+runs                                                              	class     	Action         	undetermined                     	MODIFIERS                 	NOT_VAGUE
+bases                                                           	class     	Action         	undetermined                     	MODIFIERS               	NOT_VAGUE
+balls                                                           	class     	Product        	undetermined                     	MODIFIERS               	NOT_VAGUE
+slugging percentage                                               	instance  	Action         	undetermined                     	adjective                 	NOT_VAGUE
+on-base plus slugging                                             	instance  	Action         	undetermined                     	noun                      	NOT_VAGUE
+Ruth                                                              	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+one of the greatest sports heroes                               	class     	Person         	determined                       	adjective               	subjective
+American culture                                                	instance   	Intangible     	mass_noun                       	adjective                 	NOT_VAGUE
+the greatest baseball player                                    	instance  	Person         	determined                      	adjective noun          	subjective
+all time                                                        	instance  	Event         	mass_noun                       	MODIFIERS               	NOT_VAGUE
+Ruth                                                              	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+the Baseball Hall of Fame                                         	instance  	Organization   	determined named                 	preposition               	NOT_VAGUE
+its first five inaugural members                                  	class     	Person         	qualified_anaphora numbered      	adjective                 	portions
+St. Mary's Industrial School for Boys                             	instance  	Organization   	named                            	preposition               	NOT_VAGUE
+a reformatory                                                     	instance  	Organization   	undetermined                     	MODIFIERS                 	NOT_VAGUE
+Brother Matthias Boutlier of the Xaverian Brothers                	instance  	Person         	named                            	preposition               	NOT_VAGUE
+the school's disciplinarian                                       	instance  	Person         	determined                      	noun                      	NOT_VAGUE
+a capable baseball player                                         	instance  	Person         	undetermined                     	noun adjective            	subjective
+minor-league baseball                                           	instance  	Organization   	mass_noun                          	adjective               	NOT_VAGUE
+the Baltimore Orioles                                            	instance  	Organization   	named                           	adjective               	NOT_VAGUE
+the Red Sox                                                       	instance  	Organization   	determined named                 	MODIFIERS                 	NOT_VAGUE
+a reputation                                                    	instance  	Intangible     	undetermined                     	MODIFIERS               	subjective
+an outstanding pitcher                                          	instance  	Person      	undetermined                     	adjective               	subjective
+long home runs                                                    	class     	Action         	undetermined                     	noun adjective            	degree
+a feat                                                            	instance  	Intangible     	undetermined anaphora            	MODIFIERS                 	NOT_VAGUE
+any player                                                      	class     	Person         	undetermined                     	MODIFIERS               	NOT_VAGUE
+the pre-1920 dead-ball era                                       	class     	Event         	determined                      	adjective               	NOT_VAGUE
+Ruth                                                              	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+23 games                                                        	class     	Event          	numbered                         	MODIFIERS               	NOT_VAGUE
+a season                                                           	class     	Event          	undetermined                       	MODIFIERS               	NOT_VAGUE
+a pitcher                                                       	class     	Person         	undetermined                       	MODIFIERS               	NOT_VAGUE
+a member                                                           	instance  	Person         	undetermined                     	MODIFIERS               	NOT_VAGUE
+three World Series championship teams                           	class    	Organization   	numbered contains_named            	adjective               	NOT_VAGUE
+the Red Sox                                                      	instance  	Organization   	determined                      	MODIFIERS               	NOT_VAGUE
+an outfielder                                                     	instance  	Person         	undetermined                     	MODIFIERS                 	NOT_VAGUE
+regular playing time                                              	instance  	Intangible     	mass_noun                        	adjective                 	degree
+the MLB single-season home run record                             	instance  	Event          	determined named contains_named  	noun adjective            	NOT_VAGUE
+that season                                                       	instance  	Event          	anaphora                         	MODIFIERS                 	NOT_VAGUE
+Red Sox owner Harry Frazee                                        	instance  	Person         	named contains_named             	noun                      	NOT_VAGUE
+controversy                                                       	instance  	Action         	mass_noun                        	modifiers                 	subjective
+The trade                                                         	instance  	Event          	determined anaphora              	MODIFIERS                 	NOT_VAGUE
+Boston's subsequent 86-year championship drought                  	instance  	Intangible     	mass_noun contains_named         	noun adjective            	NOT_VAGUE
+the Curse of the Bambino superstition                             	instance  	CreativeWork   	determined named                 	preposition               	NOT_VAGUE
+his 15 years                                                     	class     	Event          	qualified_anaphora numbered      	MODIFIERS               	NOT_VAGUE
+the Yankees                                                     	instance   	Organization   	determined named                           	MODIFIERS               	NOT_VAGUE
+Ruth                                                              	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+the team                                                          	instance  	Organization   	determined anaphora              	MODIFIERS                 	NOT_VAGUE
+seven American League pennants                                    	class     	CreativeWork   	numbered contains_named          	MODIFIERS                 	NOT_VAGUE
+four World Series championships                                   	class     	CreativeWork   	numbered contains_named          	MODIFIERS                 	NOT_VAGUE
+His big swing                                                     	instance  	Action         	qualified_anaphora               	adjective                 	degree
+escalating home run totals                                        	class     	Intangible     	undetermined                     	noun adjective            	NOT_VAGUE
+fans                                                              	class     	Person         	undetermined                     	MODIFIERS                 	portions
+the ballpark                                                      	instance  	Place        	determined                       	MODIFIERS                 	NOT_VAGUE
+the sport's popularity                                            	instance  	Intangible     	determined                      	noun                      	subjective
+baseball's live-ball era                                          	instance  	Event          	determined                      	noun adjective            	NOT_VAGUE
+a low-scoring game                                                	instance  	CreativeWork   	undetermined                     	adjective               	degree
+strategy                                                        	instance  	CreativeWork   	mass_noun                       	adjective               	NOT_VAGUE
+a sport                                                           	instance  	CreativeWork   	undetermined anaphora            	MODIFIERS                 	NOT_VAGUE
+the home run                                                      	instance  	Action         	determined                       	noun                      	NOT_VAGUE
+a major factor                                                    	instance  	Event          	undetermined                     	adjective                 	subjective
+part of the Yankees' vaunted "Murderers' Row" lineup of 1927      	instance  	person         	undetermined named               	preposition               	NOT_VAGUE
+Ruth                                                              	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+his MLB single-season record                                      	instance  	Event          	qualified_anaphora               	adjective                 	NOT_VAGUE
+a single home run                                                 	instance  	Action         	undetermined                     	noun adjective            	NOT_VAGUE
+Ruth's last season                                              	instance  	Event          	determined contains_named        	noun                     	NOT_VAGUE
+the Yankees                                                     	instance  	Organization   	determined named                	MODIFIERS               	NOT_VAGUE
+a short stint                                                    	instance  	Event          	undetermined                    	adjective               	degree
+the Boston Braves                                                  	instance  	Organization   	determined named                	MODIFIERS               	NOT_VAGUE
+his career                                                        	instance  	Intangible     	qualified_anaphora               	MODIFIERS                 	NOT_VAGUE
+Ruth                                                              	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+the AL                                                            	instance  	Organization   	determined named                 	modifiers                 	NOT_VAGUE
+home runs                                                         	class     	action         	undetermined                     	noun                      	NOT_VAGUE
+12 times                                                          	class     	intangible     	numbered                         	modifiers                 	NOT_VAGUE
+Ruth's career                                                     	instance  	Intangible     	determined                      	MODIFIERS                 	NOT_VAGUE
+the target                                                      	instance  	Intangible     	determined                       	MODIFIERS               	NOT_VAGUE
+intense press and public attention                                	class   	Intangible     	mass_noun                       	adjective noun             	subjective
+his baseball exploits                                             	class     	Intangible     	qualified_anaphora               	noun                      	NOT_VAGUE
+off-field penchants                                             	class     	Intangible     	undetermined                     	adjective               	NOT_VAGUE
+drinking and womanizing                                         	class     	Intangible     	mass_noun                       	MODIFIERS               	NOT_VAGUE
+his retirement                                                  	instance  	Event          	qualified_anaphora               	MODIFIERS               	NOT_VAGUE
+a player                                                        	instance  	Person         	undetermined                    	MODIFIERS               	NOT_VAGUE
+the opportunity                                                   	instance  	Event          	determined mass_noun             	MODIFIERS                 	NOT_VAGUE
+a major league club                                               	instance  	Organization   	undetermined                     	noun adjective            	NOT_VAGUE
+poor behavior                                                   	class     	Action         	mass_noun                        	adjective               	portions subjective
+parts of his playing career                                     	class     	Action         	numbered qualified_anaphora       	adjective               	portions
+his final years                                                   	class     	Event          	qualified_anaphora               	adjective                 	degree portions
+many public appearances                                           	class     	Event          	numbered                         	adjective                 	portions
+support                                                          	class     	Intangible     	mass_noun                       	MODIFIERS               	subjective
+American efforts                                                	class     	Intangible     	undetermined                     	MODIFIERS               	NOT_VAGUE
+World War II                                                    	instance   	Event         	named                           	MODIFIERS               	NOT_VAGUE
+nasopharyngeal cancer                                             	instance  	MedicalEntity  	mass_noun                        	adjective                 	NOT_VAGUE
+the disease                                                       	instance  	MedicalEntity  	determined anaphora              	MODIFIERS                 	NOT_VAGUE
+a part of American culture                                        	instance  	Intangible     	undetermined                     	preposition               	NOT_VAGUE
+President Donald Trump                                            	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+the Presidential Medal of Freedom                                 	instance  	CreativeWork   	determined named                 	adjective preposition     	NOT_VAGUE

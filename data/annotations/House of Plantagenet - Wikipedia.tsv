@@ -1,0 +1,88 @@
+expression                                                         	plurality 	Yago4          	manifestation              	modifiers            	vagueness
+The House of Plantagenet                                           	instance  	organization   	determined named           	preposition          	NOT_VAGUE
+a royal house                                                      	instance  	intangible     	undetermined               	adjective            	NOT_VAGUE
+the lands                                                        	class     	Place        	determined                 	MODIFIERS             	NOT_VAGUE
+Anjou                                                              	instance   	Place        	named                    	MODIFIERS             	NOT_VAGUE
+France                                                             	instance  	Place        	named                      	MODIFIERS            	NOT_VAGUE
+The name Plantagenet                                               	instance  	intangible     	determined named           	MODIFIERS            	NOT_VAGUE
+modern historians                                                  	class     	person         	undetermined               	adjective            	degree portions
+four distinct royal houses                                         	class     	organization   	numbered                   	adjective            	NOT_VAGUE
+the Angevins                                                       	class     	person         	determined named           	MODIFIERS            	NOT_VAGUE
+counts                                                          	class     	Person       	undetermined            	MODIFIERS             	NOT_VAGUE
+Anjou                                                              	instance   	Place        	named                    	MODIFIERS             	NOT_VAGUE
+the main body                                                      	class     	person         	determined                 	adjective            	NOT_VAGUE
+the loss                                                          	instance  	event          	determined                 	preposition          	NOT_VAGUE
+Anjou                                                              	instance   	Place        	named                    	MODIFIERS             	NOT_VAGUE
+the Plantagenets' two cadet branches                               	instance  	person         	determined contains_named  	noun                 	NOT_VAGUE
+the houses                                                         	class     	organization   	determined named           	MODIFIERS             	NOT_VAGUE
+Lancaster and York                                                 	class     	organization   	named                     	MODIFIERS            	NOT_VAGUE
+The family                                                         	instance  	person         	determined anaphora        	MODIFIERS            	NOT_VAGUE
+the English throne                                                 	instance  	intangible     	determined                 	MODIFIERS            	NOT_VAGUE
+the accession                                                     	instance  	event          	determined                 	MODIFIERS            	NOT_VAGUE
+Henry II                                                          	instance  	Person         	named                    	MODIFIERS             	NOT_VAGUE
+the end of The Anarchy crises                                      	instance  	intangible     	determined contains_named  	preposition          	NOT_VAGUE
+Richard III                                                        	instance  	person         	named                      	MODIFIERS            	NOT_VAGUE
+battle                                                             	instance  	event          	undetermined               	MODIFIERS            	NOT_VAGUE
+the Plantagenets                                                   	class     	person         	determined named           	MODIFIERS            	NOT_VAGUE
+England                                                            	instance  	Place        	named                      	MODIFIERS            	NOT_VAGUE
+The Plantagenet kings                                              	class     	person         	determined contains_named  	MODIFIERS            	NOT_VAGUE
+compromises                                                        	class     	action         	undetermined               	MODIFIERS            	subjective
+Magna Carta                                                        	instance  	creativework   	undetermined named         	MODIFIERS            	NOT_VAGUE
+royal power                                                        	instance  	intangible     	mass_noun                  	adjective            	subjective
+military support                                                   	instance  	action         	mass_noun                  	adjective            	NOT_VAGUE
+The king                                                           	instance  	person         	determined                 	MODIFIERS            	NOT_VAGUE
+the most powerful man                                           	instance  	person         	determined                 	adjective           	subjective
+the nation                                                      	instance  	Organization   	determined                 	MODIFIERS           	NOT_VAGUE
+the prerogative                                                    	instance  	intangible     	determined                 	MODIFIERS          	NOT_VAGUE
+judgement                                                       	instance  	Action       	mass_noun                 	MODIFIERS             	NOT_VAGUE
+feudal tribute                                                     	class     	intangible     	mass_noun                  	noun                 	NOT_VAGUE
+warfare                                                            	instance  	intangible     	mass_noun                  	MODIFIERS            	NOT_VAGUE
+duties                                                             	class     	intangible     	undetermined               	MODIFIERS            	portions
+the realm                                                          	instance  	intangible     	determined                 	MODIFIERS            	NOT_VAGUE
+a sophisticated justice system                                     	instance  	intangible     	undetermined               	adjective noun       	subjective
+A distinct national identity                                       	instance  	intangible     	undetermined               	adjective            	NOT_VAGUE
+conflict                                                           	instance  	event          	mass_noun                  	MODIFIERS            	NOT_VAGUE
+Scots                                                              	class     	organization   	named                      	MODIFIERS            	NOT_VAGUE
+Welsh                                                              	instance  	organization   	named                      	MODIFIERS            	NOT_VAGUE
+Irish                                                              	instance  	organization   	named                      	MODIFIERS            	NOT_VAGUE
+the establishment                                                  	instance  	event          	determined                	MODIFIERS             	NOT_VAGUE
+English                                                           	instance  	CreativeWork   	named                     	MODIFIERS             	NOT_VAGUE
+the primary language                                               	instance  	intangible     	determined                 	adjective            	NOT_VAGUE
+the Hundred Years' War                                             	instance  	event          	determined named           	MODIFIERS            	NOT_VAGUE
+economic problems                                                  	class     	intangible     	undetermined               	adjective            	portions subjective
+Popular revolts                                                    	class     	event          	undetermined               	adjective            	subjective
+the denial                                                      	class     	action         	determined mass_noun       	MODIFIERS              	NOT_VAGUE
+numerous freedoms                                               	class     	action         	numbered                   	adjective             	portions degree
+English nobles                                                     	class     	person         	undetermined               	adjective            	portions
+private armies                                                     	class     	organization   	undetermined               	adjective            	portions
+private feuds                                                      	class     	creativework   	undetermined               	adjective            	portions
+Henry VI                                                           	instance  	person         	named                      	MODIFIERS            	NOT_VAGUE
+The rivalry                                                        	instance  	intangible     	determined                 	MODIFIERS             	subjective
+the House of Plantagenet's two cadet branches                   	class     	Organization   	determined contains_named  	preposition noun     	NOT_VAGUE
+York and Lancaster                                              	class     	Organization   	named                     	MODIFIERS            	NOT_VAGUE
+the Wars of the Roses                                              	class     	event          	determined                 	preposition          	NOT_VAGUE
+a decades-long fight                                            	instance  	event          	undetermined               	adjective           	degree
+the English succession                                          	instance  	event          	determined               	adjective           	NOT_VAGUE
+the Battle of Bosworth Field                                       	instance  	event          	determined named           	preposition          	NOT_VAGUE
+the reign                                                         	instance  	event          	determined                 	MODIFIERS             	NOT_VAGUE
+the Plantagenets                                                  	instance  	Organization   	determined                 	MODIFIERS             	NOT_VAGUE
+the English Middle Ages                                            	instance  	event          	determined named           	MODIFIERS            	NOT_VAGUE
+their end                                                          	instance  	event          	determined anaphora        	MODIFIERS            	NOT_VAGUE
+the death                                                         	instance  	event          	determined                 	MODIFIERS             	NOT_VAGUE
+King Richard III                                                 	instance  	Person        	named                    	MODIFIERS             	NOT_VAGUE
+Henry VII                                                          	instance  	person         	named                      	MODIFIERS            	NOT_VAGUE
+Lancastrian descent                                                	instance  	person         	mass_noun                  	adjective            	NOT_VAGUE
+king                                                            	instance  	person         	undetermined               	MODIFIERS             	NOT_VAGUE
+England                                                            	instance  	Organization   	named                      	MODIFIERS             	NOT_VAGUE
+five months                                                        	class     	person         	undetermined               	MODIFIERS            	NOT_VAGUE
+Elizabeth of York                                                  	instance  	person         	named                      	preposition          	NOT_VAGUE
+the Wars of the Roses                                              	class     	event          	determined named           	preposition          	NOT_VAGUE
+rise                                                               	instance  	event          	undetermined               	MODIFIERS            	NOT_VAGUE
+the Tudor dynasty                                                  	instance  	person         	determined named           	MODIFIERS            	NOT_VAGUE
+English royal power                                                	instance  	intangible     	mass_noun                  	adjective            	subjective
+some of the problems                                               	class     	intangible     	numbered                 	preposition          	portions
+the last Plantagenet rulers                                        	class     	person         	determined contains_named  	adjective            	NOT_VAGUE
+the resulting stability                                            	instance  	intangible     	determined mass_noun       	adjective            	NOT_VAGUE
+the English Renaissance                                            	instance  	event          	determined named           	adjective            	NOT_VAGUE
+the advent                                                       	instance  	event          	determined                	MODIFIERS           	NOT_VAGUE
+early modern Britain                                             	instance  	Organization   	named                     	adjective           	degree

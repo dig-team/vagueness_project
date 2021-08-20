@@ -1,0 +1,67 @@
+expression                                              	plurality 	Yago4          	manifestation                    	modifiers                 	vagueness
+The Battle of Tippecanoe                                	instance  	Event          	determined named                 	preposition               	NOT_VAGUE
+Battle Ground, Indiana                                  	instance  	Place        	named                            	MODIFIERS                 	NOT_VAGUE
+American forces                                         	class     	Organization   	undetermined                     	adjective                 	portions
+Governor William Henry Harrison                         	instance  	Person         	named                            	MODIFIERS               	NOT_VAGUE
+the Indiana Territory                                      	instance  	Place        	named                            	MODIFIERS               	NOT_VAGUE
+Indian forces                                           	class     	Organization   	undetermined                     	adjective                 	portions
+Shawnee leader Tecumseh                                 	instance  	Person         	named                            	adjective                 	NOT_VAGUE
+his brother Tenskwatawa                                 	instance  	Person         	named qualified_anaphora         	MODIFIERS                 	NOT_VAGUE
+The Prophet                                             	instance  	Person         	determined named                 	MODIFIERS                 	NOT_VAGUE
+leaders                                                 	class     	Person         	undetermined                     	MODIFIERS               	NOT_VAGUE
+a confederacy                                           	instance   	Organization  	undetermined                     	MODIFIERS               	NOT_VAGUE
+various tribes                                          	class     	Organization   	undetermined                     	adjective               	portions
+European-American settlement                               	instance  	Organization   	undetermined                     	adjective               	NOT_VAGUE
+the American frontier                                      	instance  	Place        	determined                      	adjective               	NOT_VAGUE
+tensions                                                	class     	intangible     	undetermined                     	modifiers                 	subjective portions
+violence                                                	instance  	intangible     	mass_noun                        	modifiers                 	subjective
+Governor Harrison                                       	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+an army                                                 	instance  	Organization   	undetermined                     	MODIFIERS               	NOT_VAGUE
+about 1,000 men                                            	class     	Person      	numbered                        	MODIFIERS               	portions
+the confederacy's headquarters                          	instance  	Organization   	determined                      	MODIFIERS               	NOT_VAGUE
+Prophetstown                                            	instance  	Place        	named                           	MODIFIERS               	NOT_VAGUE
+the confluence                                          	instance  	Place        	determined                      	MODIFIERS               	NOT_VAGUE
+the Tippecanoe River                                    	instance  	Place        	determined named                   	MODIFIERS               	NOT_VAGUE
+the Wabash River                                        	instance  	Place        	determined named                 	MODIFIERS                 	NOT_VAGUE
+Tecumseh                                                	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+the United States                                       	instance  	Organization   	determined named                 	MODIFIERS                 	NOT_VAGUE
+Harrison's army                                         	instance  	Organization   	named                            	MODIFIERS                 	NOT_VAGUE
+Tenskwatawa                                             	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+a spiritual leader                                      	instance  	Person         	undetermined                     	adjective                 	NOT_VAGUE
+a military man                                          	instance  	Person         	undetermined                     	adjective                 	NOT_VAGUE
+Harrison                                                	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+Prophetstown                                            	instance  	Place        	named                            	MODIFIERS                 	NOT_VAGUE
+warriors                                                   	class     	Person         	undetermined                     	MODIFIERS               	portions
+Prophetstown                                            	class     	Place        	named                           	MODIFIERS               	NOT_VAGUE
+Harrison's army                                         	instance  	organization   	determined contains_named        	modifiers                 	NOT_VAGUE
+the army                                                	instance  	Organization   	determined anaphora              	MODIFIERS                 	NOT_VAGUE
+surprise                                                	instance  	intangible     	mass_noun                        	modifiers                 	NOT_VAGUE
+Harrison                                                	instance  	person         	named                            	modifiers                 	NOT_VAGUE
+his men                                                 	class     	Person         	qualified_anaphora               	MODIFIERS                 	NOT_VAGUE
+their ground                                            	instance  	Place        	qualified_anaphora               	MODIFIERS                 	NOT_VAGUE
+the battle                                              	instance  	Event          	determined anaphora              	MODIFIERS                 	NOT_VAGUE
+Harrison's men                                          	class     	Person         	determined contains_named        	MODIFIERS                 	NOT_VAGUE
+Prophetstown                                            	instance  	Place        	named                            	MODIFIERS                 	NOT_VAGUE
+the ground                                              	instance  	Place        	determined                       	MODIFIERS                 	NOT_VAGUE
+the food supplies                                       	class     	Product        	determined                       	MODIFIERS                 	NOT_VAGUE
+the winter                                              	instance  	Intangible     	determined                       	MODIFIERS                 	NOT_VAGUE
+The soldiers                                            	class     	Person         	determined anaphora              	MODIFIERS                 	NOT_VAGUE
+their homes                                             	class     	Place        	qualified_anaphora               	MODIFIERS                 	NOT_VAGUE
+Harrison                                                	instance  	person         	named                            	modifiers                 	NOT_VAGUE
+his goal                                                	instance  	Intangible     	qualified_anaphora               	MODIFIERS               	NOT_VAGUE
+destroying Prophetstown                                  	instance  	Place        	named                           	MODIFIERS               	NOT_VAGUE
+The win                                                 	instance  	Event          	determined                       	MODIFIERS                 	NOT_VAGUE
+Harrison                                                	instance  	person         	named                            	MODIFIERS                 	NOT_VAGUE
+the nickname                                            	instance  	CreativeWork   	determined                       	MODIFIERS               	NOT_VAGUE
+Tippecanoe                                              	instance  	Person      	named                           	MODIFIERS               	NOT_VAGUE
+the defeat                                              	instance  	Event          	determined                       	MODIFIERS                 	NOT_VAGUE
+a fatal blow                                            	instance  	Intangible     	undetermined                    	adjective                	NOT_VAGUE
+Tecumseh's confederacy                                  	instance  	Organization   	contains_named                   	MODIFIERS                	NOT_VAGUE
+comeback attempts                                       	class     	Action         	undetermined                     	noun                      	NOT_VAGUE
+Harrison’s nickname                                     	instance  	CreativeWork   	undetermined contains_named      	MODIFIERS                 	NOT_VAGUE
+"Tippecanoe and Tyler too "                             	instance  	CreativeWork   	named                            	MODIFIERS                 	NOT_VAGUE
+his campaign slogan                                     	instance  	CreativeWork   	qualified_anaphora               	noun                      	NOT_VAGUE
+a popularized campaign song                             	instance  	CreativeWork   	undetermined                     	noun adjective            	degree
+predisent                                               	instance  	Organization   	undetermined                     	MODIFIERS                 	NOT_VAGUE
+John Tyler                                              	instance  	Person         	named                            	MODIFIERS               	NOT_VAGUE
+his running mate                                        	instance  	Person         	qualified_anaphora               	MODIFIERS                 	NOT_VAGUE

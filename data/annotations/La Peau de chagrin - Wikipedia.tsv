@@ -1,0 +1,77 @@
+expression                                                      	plurality 	Yago4          	manifestation                  	modifiers            	vagueness
+La Peau de chagrin                                              	instance  	CreativeWork   	named                          	modifiers            	NOT_VAGUE
+The Wild Ass's Skin                                             	instance  	CreativeWork   	determined named               	modifiers            	NOT_VAGUE
+an 1831 novel                                                   	instance  	CreativeWork   	undetermined                	MODIFIERS           	NOT_VAGUE
+French novelist and playwright Honoré de Balzac                 	instance  	Person         	named                       	MODIFIERS            	NOT_VAGUE
+early 19th-century Paris                                        	instance  	Place        	named                          	adjective            	degree
+the story                                                       	instance  	CreativeWork   	determined                     	MODIFIERS             	NOT_VAGUE
+a young man                                                        	instance  	Person         	undetermined                   	adjective             	degree
+a magic piece of shagreen                                       	instance  	Product        	undetermined                   	adjective preposition	NOT_VAGUE
+untanned skin                                                      	instance  	Product        	undetermined                   	adjective           	NOT_VAGUE
+a wild ass                                                         	instance  	Taxon        	undetermined                   	adjective           	NOT_VAGUE
+his every desire                                                	instance  	Intangible     	qualified_anaphora             	MODIFIERS            	subjective
+each wish                                                       	instance  	Intangible     	undetermined                   	Modifiers            	NOT_VAGUE
+the skin                                                        	instance  	Product        	determined anaphora            	Modifiers            	NOT_VAGUE
+a portion of his physical energy                                	instance  	Intangible     	undetermined qualified_anaphora	preposition          	degree subjective
+La Peau de chagrin                                              	instance  	CreativeWork   	named                          	modifiers            	NOT_VAGUE
+the Études philosophiques group                                   	class     	Person         	determined named               	MODIFIERS             	NOT_VAGUE
+Balzac's sequence of novels                                      	class     	CreativeWork   	contains_named numbered        	preposition          	portions
+La Comédie humaine                                              	instance  	CreativeWork   	named                          	MODIFIERS            	NOT_VAGUE
+the book                                                        	instance  	CreativeWork   	determined anaphora            	MODIFIERS            	NOT_VAGUE
+a series of articles                                            	class     	CreativeWork   	undetermined                   	preposition          	portions
+story fragments                                                 	class     	CreativeWork   	undetermined                   	noun                 	portions
+several Parisian journals                                       	class     	CreativeWork   	undetermined                   	adjective            	portions
+the manuscript                                                  	instance  	CreativeWork   	determined anaphora            	MODIFIERS            	NOT_VAGUE
+sufficient interest                                             	instance  	intangible     	mass_noun                      	adjective            	subjective
+the novel                                                       	instance  	creativework   	determined anaphora            	modifiers            	NOT_VAGUE
+its publication                                                 	instance  	Event          	qualified_anaphora             	MODIFIERS            	NOT_VAGUE
+A second edition                                                	instance  	CreativeWork   	undetermined                   	adjective            	NOT_VAGUE
+a series of twelve other philosophical tales                    	class     	CreativeWork   	undetermined                   	preposition          	NOT_VAGUE
+the novel                                                       	instance  	creativework   	determined anaphora            	modifiers            	NOT_VAGUE
+fantastic elements                                              	class     	CreativeWork   	undetermined                   	adjective            	subjective portions
+its main focus                                                  	instance  	Intangible     	qualified_anaphora mass_noun   	adjective            	NOT_VAGUE
+a realistic portrayal                                             	instance  	CreativeWork   	undetermined                   	adjective           	subjective
+the excesses                                                     	instance  	Intangible   	determined                   	MODIFIERS           	subjective
+bourgeois materialism                                           	instance  	Intangible   	undetermined                   	adjective           	NOT_VAGUE
+Balzac's renowned attention to detail                           	instance  	intangible     	mass_noun contains_named       	modifiers            	subjective
+a gambling house                                                	instance  	Place        	undetermined                   	noun                 	NOT_VAGUE
+an antique shop                                                 	instance  	Place        	undetermined                   	noun                 	NOT_VAGUE
+a royal banquet                                                 	instance  	Event          	undetermined                   	MODIFIERS            	NOT_VAGUE
+other locales                                                   	class     	Place        	undetermined                   	MODIFIERS            	portions
+details                                                         	class     	Intangible     	undetermined                	MODIFIERS              	portions subjective
+his own life                                                       	instance   	Intangible     	qualified_anaphora          	MODIFIERS             	NOT_VAGUE
+a struggling writer                                                	instance   	Person       	undetermined                	adjective             	subjective
+the main character                                              	instance  	Person         	determined                     	adjective            	NOT_VAGUE
+a home                                                          	instance  	Place        	undetermined                   	modifiers            	NOT_VAGUE
+the one                                                         	instance  	Place        	determined anaphora            	MODIFIERS            	NOT_VAGUE
+the start of his literary career                                	instance  	Event          	determined qualified_anaphora  	preposition          	NOT_VAGUE
+The central theme                                                	instance  	Intangible     	determined                     	adjective           	NOT_VAGUE
+La Peau de chagrin                                                	instance  	CreativeWork   	named                        	MODIFIERS           	NOT_VAGUE
+the conflict                                                       	instance  	Intangible     	determined                     	MODIFIERS            	NOT_VAGUE
+desire and longevity                                            	class   	Intangible     	mass_noun                      	MODIFIERS           	NOT_VAGUE
+The magic skin                                                  	instance  	Product        	determined anaphora            	noun                 	NOT_VAGUE
+the owner's life-force                                          	instance  	Intangible     	determined                     	MODIFIERS            	NOT_VAGUE
+every expression                                                	instance  	Intangible     	mass_noun                      	MODIFIERS             	NOT_VAGUE
+will                                                             	instance  	Intangible     	mass_noun                      	MODIFIERS             	NOT_VAGUE
+the acquisition                                                 	instance  	Intangible     	determined mass_noun           	MODIFIERS             	NOT_VAGUE
+power                                                             	instance  	Intangible     	mass_noun                   	MODIFIERS             	NOT_VAGUE
+a caution                                                          	instance  	Action         	undetermined                   	MODIFIERS             	NOT_VAGUE
+the shopkeeper                                                   	instance  	Person         	determined                   	MODIFIERS             	NOT_VAGUE
+the skin                                                        	instance  	Product        	determined anaphora            	MODIFIERS            	NOT_VAGUE
+the protagonist                                                 	instance  	Person         	determined anaphora            	MODIFIERS            	NOT_VAGUE
+the story's end                                                 	instance  	CreativeWork   	determined                     	modifiers            	NOT_VAGUE
+La Peau de chagrin                                              	instance  	CreativeWork   	named                          	modifiers            	NOT_VAGUE
+Balzac                                                          	instance  	Person         	named                          	modifiers            	NOT_VAGUE
+a writer                                                          	instance  	Person         	undetermined                  	MODIFIERS              	NOT_VAGUE
+significance                                                      	instance  	Intangible     	mass_noun                     	MODIFIERS            	subjective
+France                                                          	instance  	Place        	named                        	MODIFIERS             	NOT_VAGUE
+His social circle                                               	instance  	Person         	qualified_anaphora             	adjective            	subjective
+publishers                                                      	class     	person         	undetermined                   	modifiers            	portions
+future projects                                                 	class     	CreativeWork   	undetermined                   	adjective            	NOT_VAGUE
+The book                                                        	instance  	CreativeWork   	determined anaphora            	modifiers            	NOT_VAGUE
+the catalyst                                                       	instance   	Intangible     	determined                     	MODIFIERS           	NOT_VAGUE
+a series of letters                                                	class     	CreativeWork   	undetermined numbered          	MODIFIERS           	NOT_VAGUE
+a Polish baroness                                               	instance  	Person         	undetermined                   	adjective            	NOT_VAGUE
+Ewelina Hańska                                                  	instance  	Person         	named                          	modifiers            	NOT_VAGUE
+his wife                                                        	instance  	Person         	qualified_anaphora             	MODIFIERS            	NOT_VAGUE
+Giselher Klebe's opera Die tödlichen Wünsche                    	instance  	CreativeWork   	named                          	MODIFIERS            	NOT_VAGUE

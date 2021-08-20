@@ -1,0 +1,75 @@
+expression                                                                 	plurality 	Yago4          	manifestation                	modifiers                 	vagueness
+The Raft of the Medusa                                                     	instance  	CreativeWork   	determined named             	preposition               	NOT_VAGUE
+Scène de Naufrage                                                          	instance  	CreativeWork   	named                        	modifiers                 	NOT_VAGUE
+an oil painting                                                            	instance  	CreativeWork   	undetermined                 	noun                      	NOT_VAGUE
+the French Romantic painter and lithographer Théodore Géricault            	instance  	Person         	determined named             	adjective                 	NOT_VAGUE
+the artist                                                                 	instance  	Person         	determined anaphora          	MODIFIERS                 	NOT_VAGUE
+the work                                                                   	instance  	CreativeWork   	determined anaphora          	MODIFIERS                 	NOT_VAGUE
+an icon                                                                  	instance  	Intangible     	undetermined                  	adjective preposition     	subjective
+French Romanticism                                                      	instance  	CreativeWork   	named                         	adjective                	NOT_VAGUE
+an over-life-size painting                                                 	instance  	CreativeWork   	undetermined                 	adjective                 	NOT_VAGUE
+a moment                                                                	instance  	Event          	undetermined                  	adjective                	NOT_VAGUE
+the aftermath                                                           	instance  	Event          	determined                    	adjective                	NOT_VAGUE
+the wreck                                                               	instance  	Product        	determined                    	adjective                	NOT_VAGUE
+the French naval frigate Méduse                                         	instance  	Product        	named                         	adjective noun          	NOT_VAGUE
+the coast                                                               	instance  	Place        	determined                   	MODIFIERS               	NOT_VAGUE
+today's Mauritania                                                      	instance  	Organization   	determined                   	MODIFIERS               	NOT_VAGUE
+147 people                                                                 	class     	Person         	numbered                     	adjective                 	NOT_VAGUE
+a hurriedly constructed raft                                               	instance  	Product        	undetermined                 	adjective                 	NOT_VAGUE
+all but 15                                                                 	instance  	Person         	undetermined                 	modifiers                 	NOT_VAGUE
+the 13 days                                                             	class     	intangible     	determined                  	MODIFIERS               	NOT_VAGUE
+their rescue                                                            	instance   	Action     	qualified_anaphora               	MODIFIERS               	NOT_VAGUE
+The event                                                                  	instance  	Event          	determined anaphora          	MODIFIERS                 	NOT_VAGUE
+an international scandal                                                   	instance  	Intangible     	undetermined                 	adjective                 	NOT_VAGUE
+its cause                                                                  	instance  	intangible     	determined qualified_anaphora	modifiers                 	NOT_VAGUE
+the incompetence                                                         	instance  	Intangible     	determined                   	MODIFIERS                	subjective
+the French captain                                                      	instance  	Person       	determined contains_named      	adjective                	NOT_VAGUE
+Géricault                                                                  	instance  	Person         	named                        	MODIFIERS                 	NOT_VAGUE
+this event                                                                 	instance  	Event          	qualified_anaphora           	MODIFIERS                 	NOT_VAGUE
+his career                                                                 	instance  	Intangible     	qualified_anaphora           	adjective                	NOT_VAGUE
+a large-scale uncommissioned work                                          	instance  	CreativeWork   	undetermined                 	adjective                 	degree
+great public interest                                                      	instance  	Intangible     	undetermined mass_noun       	adjective                 	subjective
+work                                                                     	instance  	Action         	undetermined mass_noun       	Modifiers                	NOT_VAGUE
+the final painting                                                       	instance  	CreativeWork   	determined mass_noun          	adjective                	NOT_VAGUE
+extensive research                                                         	instance  	CreativeWork   	undetermined mass_noun       	adjective                 	subjective
+many preparatory sketches                                                  	class     	CreativeWork   	numbered                     	adjective                 	portions
+two of the survivors                                                       	class     	Person         	determined                   	MODIFIERS                 	NOT_VAGUE
+a detailed scale model                                                   	instance  	CreativeWork   	undetermined                 	adjective noun          	degree
+the raft                                                                   	instance  	Product        	determined                   	MODIFIERS               	NOT_VAGUE
+hospitals                                                                  	class     	Organization   	undetermined                 	MODIFIERS                 	portions
+morgues                                                                    	class     	Organization   	undetermined                 	MODIFIERS                 	portions
+the colour and texture                                                    	class   	Intangible     	determined                   	MODIFIERS               	NOT_VAGUE
+the flesh                                                                 	instance  	MedicalEntity  	determined                   	MODIFIERS               	NOT_VAGUE
+the dying and dead                                                      	class     	Person       	determined                   	MODIFIERS               	NOT_VAGUE
+the painting                                                               	instance  	CreativeWork   	determined anaphora          	MODIFIERS                 	NOT_VAGUE
+its first appearance                                                       	instance  	Event          	qualified_anaphora           	adjective                	NOT_VAGUE
+the 1819 Paris Salon                                                     	instance  	Organization   	named                          	MODIFIERS                	NOT_VAGUE
+passionate praise and condemnation                                         	class   	Intangible     	mass_noun                    	MODIFIERS                 	subjective
+equal measure                                                              	instance  	Intangible     	mass_noun                    	adjective                	NOT_VAGUE
+his international reputation                                               	instance  	Intangible     	qualified_anaphora           	adjective                 	subjective
+the early history                                                         	instance  	Event          	determined                   	adjective                	degree
+the Romantic movement                                                     	instance  	CreativeWork   	named                         	adjective                	NOT_VAGUE
+French painting                                                          	instance  	CreativeWork   	named                          	adjective                	NOT_VAGUE
+The Raft of the Medusa                                                     	instance  	CreativeWork   	determined named             	preposition               	NOT_VAGUE
+elements                                                                 	class     	Intangible   	undetermined                 	MODIFIERS                 	portions
+the traditions                                                          	class     	Intangible   	determined                   	MODIFIERS                 	NOT_VAGUE
+history painting                                                        	class     	CreativeWork   	mass_noun                    	noun                     	NOT_VAGUE
+its choice                                                                 	instance  	Intangible     	qualified_anaphora           	MODIFIERS                	NOT_VAGUE
+subject matter                                                             	instance  	Intangible     	mass_noun                   	adjective                	NOT_VAGUE
+its dramatic presentation                                                  	instance  	Intangible     	qualified_anaphora           	adjective                 	subjective
+a break                                                                   	instance  	Event        	undetermined                 	MODIFIERS                	NOT_VAGUE
+the calm and order                                                        	class     	Intangible     	determined                   	adjective                	NOT_VAGUE
+the prevailing Neoclassical school                                        	instance  	Intangible     	determined named              	adjective                	subjective
+Géricault's work                                                           	instance  	CreativeWork   	anaphora                     	MODIFIERS                 	NOT_VAGUE
+wide attention                                                            	instance  	Intangible     	mass_noun                    	adjective                	degree subjective
+its first showing                                                       	instance  	Intangible     	mass_noun qualified_anaphora   	adjective                	NOT_VAGUE
+London                                                                     	instance  	Place        	named                        	MODIFIERS                 	NOT_VAGUE
+The Louvre                                                                 	instance  	Place        	determined named             	MODIFIERS                 	NOT_VAGUE
+the artist's death                                                      	instance  	Event          	determined                  	MODIFIERS                  	NOT_VAGUE
+the age of 32                                                           	instance  	Event          	determined                  	MODIFIERS               	NOT_VAGUE
+The painting's influence                                                   	instance  	Intangible     	determined mass_noun         	MODIFIERS                 	subjective
+the works                                                                 	class     	CreativeWork   	determined                  	MODIFIERS               	NOT_VAGUE
+Eugène Delacroix                                                         	instance   	Person      	named                       	MODIFIERS               	NOT_VAGUE
+J. M. W.Turner                                                             	instance  	Person         	named                        	MODIFIERS                 	NOT_VAGUE
+Gustave Courbet                                                            	instance  	Person         	named                        	MODIFIERS                 	NOT_VAGUE
+Édouard Manet                                                              	instance  	Person         	named                        	adjective                 	NOT_VAGUE

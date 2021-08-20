@@ -1,0 +1,72 @@
+expression                                                                	plurality 	Yago4          	manifestation               	modifiers                 	vagueness
+Triceratops                                                               	class     	Taxon          	named                       	MODIFIERS                 	NOT_VAGUE
+a genus                                                                 	instance  	Taxon          	undetermined                	MODIFIERS               	NOT_VAGUE
+herbivorous ceratopsid dinosaur                                         	instance  	Taxon          	undetermined                	adjective noun          	NOT_VAGUE
+the late Maastrichtian stage                                            	instance  	Event          	determined contains_named   	adjective                	degree
+the late Cretaceous period                                              	instance  	Event          	determined contains_named   	adjective                	degree
+68 million years                                                          	class     	Event          	numbered                    	MODIFIERS                 	NOT_VAGUE
+North America                                                             	instance  	Place        	named                       	MODIFIERS                 	NOT_VAGUE
+the last-known non-avian dinosaur genera                                  	instance  	Taxon          	determined                  	adjective noun            	NOT_VAGUE
+the Cretaceous–Paleogene extinction event                                 	class     	Event          	determined contains_named   	noun                      	NOT_VAGUE
+The name Triceratops                                                      	instance  	CreativeWork   	determined contains_named   	MODIFIERS                 	NOT_VAGUE
+three-horned face                                                         	instance  	Taxon          	undetermined                	adjective                 	NOT_VAGUE
+the Ancient Greek words                                                   	class     	CreativeWork   	determined contains_named   	MODIFIERS                 	NOT_VAGUE
+Triceratops                                                               	class     	Taxon          	named                       	MODIFIERS                 	NOT_VAGUE
+numerous remains                                                          	class     	Product        	undetermined                	adjective                 	portions
+the genus                                                                 	instance  	Taxon          	determined anaphora         	MODIFIERS                 	NOT_VAGUE
+Othniel Charles Marsh                                                     	instance  	Person         	named                       	MODIFIERS                 	NOT_VAGUE
+Specimens representing life stages                                        	class     	Product        	undetermined                	noun                      	portions
+adult                                                                     	instance  	Intangible     	undetermined                	MODIFIERS                 	degree
+the archetypal ceratopsid                                                 	instance  	Taxon          	determined                  	adjective                 	subjective
+Triceratops                                                               	class     	Taxon          	undetermined                	MODIFIERS                 	NOT_VAGUE
+one of the most popular dinosaurs                                         	class     	Taxon          	determined                  	adjective                 	subjective portions
+film                                                                      	instance  	CreativeWork   	mass_noun                   	MODIFIERS                 	portions
+postal stamps                                                             	class     	CreativeWork   	undetermined                	adjective                 	portions
+many other types                                                         	class     	Intangible   	numbered                    	adjective                	portions
+media                                                                     	class     	CreativeWork   	undetermined                   	adjective                	portions
+a large bony frill and three horns                                         	class     	Product        	undetermined numbered       	adjective                	degree
+the skull                                                                 	class     	Product        	determined                     	MODIFIERS                	NOT_VAGUE
+its large four-legged body                                                	class     	Taxon          	qualified_anaphora mass_noun	adjective                	degree
+similarities                                                               	class     	Intangible     	undetermined                	adjective                	subjective portions
+the modern rhinoceros                                                    	class     	Taxon        	determined                  	adjective                	NOT_VAGUE
+Triceratops                                                               	class     	Taxon          	named                       	MODIFIERS                 	NOT_VAGUE
+all dinosaurs                                                             	class     	Taxon          	numbered                    	MODIFIERS                 	NOT_VAGUE
+the best-known ceratopsid                                                 	instance  	Taxon          	determined                  	adjective                 	degree
+the landscape                                                             	instance  	Place        	determined mass_noun        	MODIFIERS                 	NOT_VAGUE
+Tyrannosaurus                                                             	instance  	Taxon          	undetermined                	MODIFIERS                 	NOT_VAGUE
+the fanciful manner                                                       	instance  	Intangible     	determined                  	adjective                	subjective
+museum displays                                                           	class     	CreativeWork   	undetermined                	noun                      	portions
+popular images                                                            	class     	CreativeWork   	undetermined                	adjective                 	portions subjective
+The functions                                                           	class     	Intangible     	determined                  	MODIFIERS               	NOT_VAGUE
+the frills and three distinctive facial horns                           	class     	Product        	determined                  	adjective               	NOT_VAGUE
+its head                                                                	instance   	Product        	qualified_anaphora             	MODIFIERS               	NOT_VAGUE
+debate                                                                    	instance  	CreativeWork   	mass_noun                   	adjective                 	NOT_VAGUE
+defensive weapons                                                          	class     	Product        	undetermined                	adjective                	NOT_VAGUE
+predators                                                                  	class     	Taxon        	undetermined                	MODIFIERS                	portions
+More recent interpretations                                               	class     	CreativeWork   	undetermined                	adjective                 	degree portions
+these features                                                            	class     	Product        	qualified_anaphora          	MODIFIERS                 	NOT_VAGUE
+species identification                                                    	class     	Intangible     	mass_noun                   	noun                      	NOT_VAGUE
+courtship                                                                 	instance  	Intangible     	mass_noun                   	MODIFIERS                 	NOT_VAGUE
+dominance display                                                         	instance  	Intangible     	mass_noun                   	noun                      	NOT_VAGUE
+the antlers and horns                                                    	class     	Product        	determined                  	MODIFIERS               	NOT_VAGUE
+modern ungulates                                                         	class     	Product        	undetermined                  	MODIFIERS               	degree
+Triceratops                                                               	class     	Taxon          	named                       	MODIFIERS                 	NOT_VAGUE
+the short-frilled ceratopsids                                             	class     	Taxon          	determined                  	adjective                 	NOT_VAGUE
+modern cladistic studies                                                  	class     	CreativeWork   	undetermined                	adjective                 	degree portions
+a member                                                                	instance  	Intangible     	undetermined                 	MODIFIERS               	NOT_VAGUE
+the Chasmosaurinae                                                      	instance  	Taxon          	determined named             	MODIFIERS               	NOT_VAGUE
+long frills                                                               	class     	Product        	undetermined                	MODIFIERS                 	degree
+Two species                                                               	class     	Taxon          	numbered                    	MODIFIERS                 	NOT_VAGUE
+T. horridus                                                               	instance  	Taxon          	named                       	MODIFIERS                 	NOT_VAGUE
+T. prorsus                                                                	instance  	Taxon          	named                       	MODIFIERS                 	NOT_VAGUE
+the seventeen species                                                     	class     	Taxon          	determined                  	adjective                 	NOT_VAGUE
+Research                                                                  	instance  	CreativeWork   	undetermined                	MODIFIERS                 	portions
+the contemporaneous Torosaurus                                            	instance  	Taxon          	determined named            	adjective                 	NOT_VAGUE
+a ceratopsid                                                              	instance  	Taxon          	undetermined                	MODIFIERS                 	NOT_VAGUE
+a separate genus                                                          	instance  	Taxon          	undetermined                	adjective                 	NOT_VAGUE
+Triceratops                                                             	class     	Taxon          	undetermined named          	MODIFIERS               	NOT_VAGUE
+its mature form                                                         	class     	Intangible     	qualified_anaphora          	adjective               	subjective
+This view                                                                 	instance  	CreativeWork   	qualified_anaphora          	MODIFIERS                 	NOT_VAGUE
+examination                                                                	instance  	Intangible   	mass_noun                   	MODIFIERS                	NOT_VAGUE
+more fossil evidence                                                      	instance  	Intangible     	mass_noun                   	adjective                	NOT_VAGUE
+the debate                                                                	instance  	CreativeWork   	determined mass_noun        	MODIFIERS                 	NOT_VAGUE
