@@ -1,10 +1,6 @@
 # The Vagueness of Vagueness in Noun Phrases
 
-This project is part of the [NoRDF project](https://nordf.telecom-paris.fr/en/) and is a joint work between [Pierre-Henri Paris](https://phparis.net), Syrine El Aoud and [Fabian Suchanek](https://suchanek.name) ([Télécom Paris](https://www.telecom-paris.fr/en/home), [DIG team](https://dig.telecom-paris.fr/blog/)).
-
-## What is about?
-
-Natural language text has a great potential to feed knowledge bases. However, natural language is not always precise - and sometimes intentionally so. In this position paper, we study vagueness in noun phrases. We manually analyze the frequency of vague noun phrases in a Wikipedia corpus, and find that 1/4 of noun phrases exhibit some form of vagueness. We report on their nature and propose a categorization. We then conduct a literature review and present different definitions of vagueness, and different existing methods to deal with the detection and modeling of vagueness. We find that, despite its frequency, vagueness has not yet be addressed in its entirety.
+Natural language text has a great potential to feed knowledge bases. However, natural language is not always precise - and sometimes intentionally so. In this work, we study vagueness in noun phrases. We manually analyze the frequency of vague noun phrases in a Wikipedia corpus, and find that 1/4 of noun phrases exhibit some form of vagueness. We report on their nature and propose a categorization. We then conduct a literature review and present different definitions of vagueness, and different existing methods to deal with the detection and modeling of vagueness. We find that, despite its frequency, vagueness has not yet be addressed in its entirety.
 
 ## Content
 
@@ -17,9 +13,11 @@ All data are located in the `data` directory:
 
 The `analysis.py` script can be executed to compute the stats corresponding to our annotations.
 
-## To cite this work
+## To go further
 
-<blockquote>Pierre-Henri Paris, Syrine El Aoud and Fabian M. Suchanek. <span style="font-style: italic;">The Vagueness of Vagueness in Noun Phrases</span>. In AKBC 2021.</blockquote>
+To learn more about our work, read (and cite) our paper:
+
+[Pierre-Henri Paris](https://phparis.net), Syrine El Aoud, and [Fabian M. Suchanek](https://suchanek.name) : “[The Vagueness of Vagueness in Noun Phrases](https://suchanek.name/work/publications/akbc-2021-vagueness.pdf)”, AKBC 2021
 
 ## Acknowledgments
 
